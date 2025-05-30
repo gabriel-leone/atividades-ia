@@ -1,0 +1,319 @@
+cluster_id,cluster_name,municipio,num_crimes
+0,Cluster 1,"Cuiabá, MT, BRAZIL",55
+0,Cluster 1,"Linhares, ES, BRAZIL",45
+0,Cluster 1,"Foz do Iguaçu, PR, BRAZIL",64
+0,Cluster 1,"Várzea Grande, MT, BRAZIL",43
+0,Cluster 1,"Tubarão, SC, BRAZIL",35
+0,Cluster 1,"Parauapebas, PA, BRAZIL",50
+0,Cluster 1,"Igarassu, PE, BRAZIL",29
+0,Cluster 1,"Guarapari, ES, BRAZIL",39
+0,Cluster 1,"Guaratinguetá, SP, BRAZIL",32
+0,Cluster 1,"São José de Ribamar, MA, BRAZIL",45
+0,Cluster 1,"Cabo de Santo Agostinho, PE, BRAZIL",45
+0,Cluster 1,"Teresina, PI, BRAZIL",100
+0,Cluster 1,"Arapongas, PR, BRAZIL",40
+0,Cluster 1,"Cambé, PR, BRAZIL",20
+0,Cluster 1,"São Lourenço da Mata, PE, BRAZIL",42
+0,Cluster 1,"Balsas, MA, BRAZIL",38
+0,Cluster 1,"Paragominas, PA, BRAZIL",27
+0,Cluster 1,"Queimados, RJ, BRAZIL",50
+0,Cluster 1,"Sarandi, PR, BRAZIL",47
+0,Cluster 1,"Santana, AP, BRAZIL",52
+0,Cluster 1,"Araxá, MG, BRAZIL",44
+0,Cluster 1,"Parnaíba, PI, BRAZIL",56
+0,Cluster 1,"Mossoró, RN, BRAZIL",48
+0,Cluster 1,"Colombo, PR, BRAZIL",34
+0,Cluster 1,"Fazenda Rio Grande, PR, BRAZIL",58
+0,Cluster 1,"Itapipoca, CE, BRAZIL",40
+0,Cluster 1,"Olinda, PE, BRAZIL",49
+0,Cluster 1,"Breves, PA, BRAZIL",12
+0,Cluster 1,"Camaragibe, PE, BRAZIL",44
+0,Cluster 1,"Canoas, RS, BRAZIL",48
+0,Cluster 1,"São Luís, MA, BRAZIL",100
+0,Cluster 1,"Teresópolis, RJ, BRAZIL",50
+0,Cluster 1,"Toledo, PR, BRAZIL",50
+0,Cluster 1,"Duque de Caxias, RJ, BRAZIL",52
+0,Cluster 1,"Camboriú, SC, BRAZIL",50
+0,Cluster 1,"Barcarena, PA, BRAZIL",49
+0,Cluster 1,"Marituba, PA, BRAZIL",50
+0,Cluster 1,"Campos dos Goytacazes, RJ, BRAZIL",43
+0,Cluster 1,"Manacapuru, AM, BRAZIL",44
+0,Cluster 1,"Ponta Grossa, PR, BRAZIL",65
+0,Cluster 1,"Alvorada, RS, BRAZIL",39
+0,Cluster 1,"Dourados, MS, BRAZIL",47
+0,Cluster 1,"Araguaína, TO, BRAZIL",52
+0,Cluster 1,"Paranaguá, PR, BRAZIL",50
+0,Cluster 1,"Colatina, ES, BRAZIL",49
+0,Cluster 1,"Fortaleza, CE, BRAZIL",100
+0,Cluster 1,"Itaquaquecetuba, SP, BRAZIL",43
+0,Cluster 1,"Três Lagoas, MS, BRAZIL",47
+0,Cluster 1,"Imperatriz, MA, BRAZIL",50
+0,Cluster 1,"Palmas, TO, BRAZIL",54
+0,Cluster 1,"Macaé, RJ, BRAZIL",46
+0,Cluster 1,"Ipatinga, MG, BRAZIL",48
+0,Cluster 1,"Varginha, MG, BRAZIL",45
+0,Cluster 1,"Osasco, SP, BRAZIL",51
+0,Cluster 1,"Altamira, PA, BRAZIL",37
+0,Cluster 1,"Campo Grande, MS, BRAZIL",100
+0,Cluster 1,"Açailândia, MA, BRAZIL",20
+0,Cluster 1,"Umuarama, PR, BRAZIL",48
+0,Cluster 1,"Ferraz de Vasconcelos, SP, BRAZIL",49
+0,Cluster 1,"Bento Gonçalves, RS, BRAZIL",49
+0,Cluster 1,"Macapá, AP, BRAZIL",39
+0,Cluster 1,"Nossa Senhora do Socorro, SE, BRAZIL",36
+0,Cluster 1,"Balneário Camboriú, SC, BRAZIL",49
+0,Cluster 1,"Pelotas, RS, BRAZIL",38
+0,Cluster 1,"Ibirité, MG, BRAZIL",39
+0,Cluster 1,"Juazeiro do Norte, CE, BRAZIL",48
+0,Cluster 1,"Itaperuna, RJ, BRAZIL",21
+0,Cluster 1,"Novo Hamburgo, RS, BRAZIL",35
+0,Cluster 1,"Vila Velha, ES, BRAZIL",100
+0,Cluster 1,"Ourinhos, SP, BRAZIL",26
+0,Cluster 1,"Crato, CE, BRAZIL",42
+0,Cluster 1,"Apucarana, PR, BRAZIL",44
+0,Cluster 1,"Vitória de Santo Antão, PE, BRAZIL",38
+0,Cluster 1,"Poá, SP, BRAZIL",48
+0,Cluster 1,"Timon, MA, BRAZIL",72
+0,Cluster 1,"Rio Grande, RS, BRAZIL",100
+0,Cluster 1,"Londrina, PR, BRAZIL",50
+0,Cluster 1,"Aracaju, SE, BRAZIL",49
+0,Cluster 1,"São Leopoldo, RS, BRAZIL",44
+0,Cluster 1,"Sorriso, MT, BRAZIL",45
+0,Cluster 1,"Santa Maria, RS, BRAZIL",67
+0,Cluster 1,"Assis, SP, BRAZIL",37
+0,Cluster 1,"Itabaiana, SE, BRAZIL",34
+0,Cluster 1,"Valparaíso de Goiás, GO, BRAZIL",29
+0,Cluster 1,"Caucaia, CE, BRAZIL",46
+0,Cluster 1,"Guarapuava, PR, BRAZIL",33
+0,Cluster 1,"Recife, PE, BRAZIL",100
+0,Cluster 1,"Garanhuns, PE, BRAZIL",44
+0,Cluster 1,"Itaituba, PA, BRAZIL",39
+0,Cluster 1,"Itajaí, SC, BRAZIL",52
+0,Cluster 1,"Teófilo Otoni, MG, BRAZIL",25
+0,Cluster 1,"Viamão, RS, BRAZIL",40
+0,Cluster 1,"Lagarto, SE, BRAZIL",27
+0,Cluster 1,"Santa Cruz do Sul, RS, BRAZIL",56
+0,Cluster 1,"Tangará da Serra, MT, BRAZIL",30
+0,Cluster 1,"Catalão, GO, BRAZIL",19
+0,Cluster 1,"Teixeira de Freitas, BA, BRAZIL",47
+0,Cluster 1,"Rio das Ostras, RJ, BRAZIL",47
+0,Cluster 1,"Joinville, SC, BRAZIL",53
+0,Cluster 1,"Nova Friburgo, RJ, BRAZIL",50
+0,Cluster 1,"Cametá, PA, BRAZIL",13
+0,Cluster 1,"Cachoeiro de Itapemirim, ES, BRAZIL",35
+0,Cluster 1,"Araucária, PR, BRAZIL",48
+0,Cluster 1,"Maranguape, CE, BRAZIL",46
+0,Cluster 1,"Palhoça, SC, BRAZIL",47
+0,Cluster 1,"São José, SC, BRAZIL",63
+0,Cluster 1,"Governador Valadares, MG, BRAZIL",31
+0,Cluster 1,"Natal, RN, BRAZIL",92
+0,Cluster 1,"Caxias, MA, BRAZIL",71
+0,Cluster 1,"Cascavel, PR, BRAZIL",49
+0,Cluster 1,"Itabira, MG, BRAZIL",46
+0,Cluster 1,"Parnamirim, RN, BRAZIL",46
+0,Cluster 1,"Passo Fundo, RS, BRAZIL",58
+0,Cluster 1,"Maceió, AL, BRAZIL",75
+0,Cluster 1,"Caruaru, PE, BRAZIL",58
+0,Cluster 1,"Piraquara, PR, BRAZIL",40
+0,Cluster 1,"Belford Roxo, RJ, BRAZIL",36
+0,Cluster 1,"Florianópolis, SC, BRAZIL",78
+0,Cluster 1,"Cariacica, ES, BRAZIL",39
+0,Cluster 1,"Pinhais, PR, BRAZIL",49
+0,Cluster 1,"Petrolina, PE, BRAZIL",62
+0,Cluster 1,"Maracanaú, CE, BRAZIL",50
+0,Cluster 1,"Patos, PB, BRAZIL",35
+0,Cluster 1,"Barretos, SP, BRAZIL",39
+0,Cluster 1,"São Gonçalo do Amarante, RN, BRAZIL",22
+0,Cluster 1,"Belém, PA, BRAZIL",100
+0,Cluster 1,"Sapucaia do Sul, RS, BRAZIL",32
+0,Cluster 1,"Cabo Frio, RJ, BRAZIL",50
+0,Cluster 1,"Sinop, MT, BRAZIL",46
+0,Cluster 1,"Birigui, SP, BRAZIL",43
+0,Cluster 1,"Marabá, PA, BRAZIL",44
+0,Cluster 1,"Gravataí, RS, BRAZIL",44
+0,Cluster 1,"João Pessoa, PB, BRAZIL",100
+0,Cluster 1,"Coronel Fabriciano, MG, BRAZIL",49
+0,Cluster 1,"Angra dos Reis, RJ, BRAZIL",49
+0,Cluster 1,"Suzano, SP, BRAZIL",50
+0,Cluster 1,"Caxias do Sul, RS, BRAZIL",100
+0,Cluster 1,"Jaboatão dos Guararapes, PE, BRAZIL",45
+0,Cluster 1,"Vitória, ES, BRAZIL",79
+0,Cluster 1,"Brusque, SC, BRAZIL",33
+0,Cluster 1,"Barra Mansa, RJ, BRAZIL",49
+0,Cluster 1,"Criciúma, SC, BRAZIL",37
+0,Cluster 1,"Ananindeua, PA, BRAZIL",46
+0,Cluster 1,"Almirante Tamandaré, PR, BRAZIL",35
+0,Cluster 1,"Ji-Paraná, RO, BRAZIL",33
+0,Cluster 1,"Paulista, PE, BRAZIL",61
+0,Cluster 1,"Castanhal, PA, BRAZIL",46
+0,Cluster 1,"São José dos Pinhais, PR, BRAZIL",48
+0,Cluster 1,"Porto Alegre, RS, BRAZIL",85
+0,Cluster 1,"Senador Canedo, GO, BRAZIL",11
+0,Cluster 1,"Blumenau, SC, BRAZIL",49
+0,Cluster 1,"Magé, RJ, BRAZIL",46
+0,Cluster 1,"Curitiba, PR, BRAZIL",100
+0,Cluster 1,"Sobral, CE, BRAZIL",47
+0,Cluster 1,"Santarém, PA, BRAZIL",100
+0,Cluster 1,"Abaetetuba, PA, BRAZIL",30
+0,Cluster 1,"Santa Rita, PB, BRAZIL",45
+0,Cluster 1,"Bagé, RS, BRAZIL",21
+0,Cluster 1,"São José dos Campos, SP, BRAZIL",66
+0,Cluster 1,"Campo Largo, PR, BRAZIL",45
+0,Cluster 1,"Araruama, RJ, BRAZIL",38
+0,Cluster 1,"Pindamonhangaba, SP, BRAZIL",46
+0,Cluster 1,"Serra, ES, BRAZIL",99
+0,Cluster 1,"Paço do Lumiar, MA, BRAZIL",39
+0,Cluster 1,"Codó, MA, BRAZIL",47
+0,Cluster 1,"Itacoatiara, AM, BRAZIL",46
+0,Cluster 1,"Porto Velho, RO, BRAZIL",70
+0,Cluster 1,"Lages, SC, BRAZIL",68
+0,Cluster 1,"Niterói, RJ, BRAZIL",64
+0,Cluster 1,"Jaú, SP, BRAZIL",26
+0,Cluster 1,"Jataí, GO, BRAZIL",15
+0,Cluster 1,"São Mateus, ES, BRAZIL",52
+0,Cluster 1,"Cachoeirinha, RS, BRAZIL",34
+1,Cluster 2,"Itabuna, BA, BRAZIL",47
+1,Cluster 2,"Luís Eduardo Magalhães, BA, BRAZIL",33
+1,Cluster 2,"Ilhéus, BA, BRAZIL",30
+1,Cluster 2,"Paulo Afonso, BA, BRAZIL",38
+1,Cluster 2,"Alagoinhas, BA, BRAZIL",36
+1,Cluster 2,"Porto Seguro, BA, BRAZIL",50
+1,Cluster 2,"Simões Filho, BA, BRAZIL",43
+1,Cluster 2,"Jequié, BA, BRAZIL",42
+1,Cluster 2,"Juazeiro, BA, BRAZIL",44
+1,Cluster 2,"Eunápolis, BA, BRAZIL",43
+1,Cluster 2,"Camaçari, BA, BRAZIL",47
+1,Cluster 2,"Santo Antônio de Jesus, BA, BRAZIL",44
+1,Cluster 2,"Vitória da Conquista, BA, BRAZIL",51
+1,Cluster 2,"Salvador, BA, BRAZIL",100
+1,Cluster 2,"Feira de Santana, BA, BRAZIL",100
+1,Cluster 2,"Barreiras, BA, BRAZIL",34
+1,Cluster 2,"Lauro de Freitas, BA, BRAZIL",48
+2,Cluster 3,"Franca, SP, BRAZIL",84
+2,Cluster 3,"Rio Verde, GO, BRAZIL",67
+2,Cluster 3,"Campina Grande, PB, BRAZIL",48
+2,Cluster 3,"Araguari, MG, BRAZIL",19
+2,Cluster 3,"Montes Claros, MG, BRAZIL",51
+2,Cluster 3,"Americana, SP, BRAZIL",49
+2,Cluster 3,"Cubatão, SP, BRAZIL",48
+2,Cluster 3,"Guarujá, SP, BRAZIL",99
+2,Cluster 3,"Nova Lima, MG, BRAZIL",53
+2,Cluster 3,"Sertãozinho, SP, BRAZIL",32
+2,Cluster 3,"Cotia, SP, BRAZIL",48
+2,Cluster 3,"Muriaé, MG, BRAZIL",26
+2,Cluster 3,"Araçatuba, SP, BRAZIL",45
+2,Cluster 3,"Betim, MG, BRAZIL",46
+2,Cluster 3,"Catanduva, SP, BRAZIL",16
+2,Cluster 3,"Passos, MG, BRAZIL",71
+2,Cluster 3,"Indaiatuba, SP, BRAZIL",41
+2,Cluster 3,"Caraguatatuba, SP, BRAZIL",36
+2,Cluster 3,"Conselheiro Lafaiete, MG, BRAZIL",42
+2,Cluster 3,"Ituiutaba, MG, BRAZIL",20
+2,Cluster 3,"Santos, SP, BRAZIL",100
+2,Cluster 3,"Sete Lagoas, MG, BRAZIL",39
+2,Cluster 3,"Jaraguá do Sul, SC, BRAZIL",47
+2,Cluster 3,"Praia Grande, SP, BRAZIL",73
+2,Cluster 3,"Boa Vista, RR, BRAZIL",51
+2,Cluster 3,"Mogi das Cruzes, SP, BRAZIL",54
+2,Cluster 3,"Ubá, MG, BRAZIL",59
+2,Cluster 3,"Contagem, MG, BRAZIL",31
+2,Cluster 3,"Belo Horizonte, MG, BRAZIL",100
+2,Cluster 3,"Ribeirão das Neves, MG, BRAZIL",48
+2,Cluster 3,"São Vicente, SP, BRAZIL",100
+2,Cluster 3,"Juiz de Fora, MG, BRAZIL",52
+2,Cluster 3,"Taubaté, SP, BRAZIL",53
+2,Cluster 3,"Ribeirão Preto, SP, BRAZIL",100
+2,Cluster 3,"Uberaba, MG, BRAZIL",46
+2,Cluster 3,"Araraquara, SP, BRAZIL",50
+2,Cluster 3,"Poços de Caldas, MG, BRAZIL",45
+2,Cluster 3,"Guarulhos, SP, BRAZIL",52
+2,Cluster 3,"Nova Serrana, MG, BRAZIL",32
+2,Cluster 3,"Campinas, SP, BRAZIL",100
+2,Cluster 3,"Limeira, SP, BRAZIL",48
+2,Cluster 3,"Divinópolis, MG, BRAZIL",48
+2,Cluster 3,"Paulínia, SP, BRAZIL",68
+2,Cluster 3,"Pouso Alegre, MG, BRAZIL",34
+2,Cluster 3,"São José do Rio Preto, SP, BRAZIL",80
+2,Cluster 3,"Sumaré, SP, BRAZIL",50
+2,Cluster 3,"Sabará, MG, BRAZIL",34
+2,Cluster 3,"Vespasiano, MG, BRAZIL",50
+2,Cluster 3,"Bacabal, MA, BRAZIL",47
+2,Cluster 3,"Barbacena, MG, BRAZIL",30
+2,Cluster 3,"Chapecó, SC, BRAZIL",46
+2,Cluster 3,"Hortolândia, SP, BRAZIL",48
+2,Cluster 3,"Petrópolis, RJ, BRAZIL",48
+2,Cluster 3,"São Carlos, SP, BRAZIL",100
+2,Cluster 3,"Valinhos, SP, BRAZIL",46
+2,Cluster 3,"Rio Branco, AC, BRAZIL",54
+2,Cluster 3,"Rio Claro, SP, BRAZIL",48
+2,Cluster 3,"Uberlândia, MG, BRAZIL",60
+2,Cluster 3,"Manaus, AM, BRAZIL",100
+2,Cluster 3,"Volta Redonda, RJ, BRAZIL",50
+2,Cluster 3,"Resende, RJ, BRAZIL",50
+2,Cluster 3,"Santa Luzia, MG, BRAZIL",50
+2,Cluster 3,"Patos de Minas, MG, BRAZIL",32
+2,Cluster 3,"Itanhaém, SP, BRAZIL",49
+2,Cluster 3,"Santa Bárbara d'Oeste, SP, BRAZIL",42
+3,Cluster 4,"Anápolis, GO, BRAZIL",45
+3,Cluster 4,"Formosa, GO, BRAZIL",21
+3,Cluster 4,"Aparecida de Goiânia, GO, BRAZIL",28
+3,Cluster 4,"Luziânia, GO, BRAZIL",24
+3,Cluster 4,"Planaltina, GO, BRAZIL",21
+3,Cluster 4,"Trindade, GO, BRAZIL",38
+3,Cluster 4,"Novo Gama, GO, BRAZIL",24
+3,Cluster 4,"Goiânia, GO, BRAZIL",49
+3,Cluster 4,"Águas Lindas de Goiás, GO, BRAZIL",26
+4,Cluster 5,"Marília, SP, BRAZIL",62
+4,Cluster 5,"Taboão da Serra, SP, BRAZIL",48
+4,Cluster 5,"São Bernardo do Campo, SP, BRAZIL",82
+4,Cluster 5,"Itapecerica da Serra, SP, BRAZIL",41
+4,Cluster 5,"São Gonçalo, RJ, BRAZIL",100
+4,Cluster 5,"Rondonópolis, MT, BRAZIL",44
+4,Cluster 5,"São Paulo, SP, BRAZIL",100
+4,Cluster 5,"Itapevi, SP, BRAZIL",49
+4,Cluster 5,"Lavras, MG, BRAZIL",16
+4,Cluster 5,"Mesquita, RJ, BRAZIL",50
+4,Cluster 5,"Santana de Parnaíba, SP, BRAZIL",36
+4,Cluster 5,"Jundiaí, SP, BRAZIL",47
+4,Cluster 5,"Sorocaba, SP, BRAZIL",71
+4,Cluster 5,"Brasília, DF, BRAZIL",74
+4,Cluster 5,"Botucatu, SP, BRAZIL",30
+4,Cluster 5,"Piracicaba, SP, BRAZIL",75
+4,Cluster 5,"Arapiraca, AL, BRAZIL",47
+4,Cluster 5,"Maringá, PR, BRAZIL",49
+4,Cluster 5,"Itumbiara, GO, BRAZIL",10
+4,Cluster 5,"Itapetininga, SP, BRAZIL",54
+4,Cluster 5,"Nova Iguaçu, RJ, BRAZIL",51
+4,Cluster 5,"Erechim, RS, BRAZIL",28
+4,Cluster 5,"Jandira, SP, BRAZIL",44
+4,Cluster 5,"São Caetano do Sul, SP, BRAZIL",49
+4,Cluster 5,"Várzea Paulista, SP, BRAZIL",45
+4,Cluster 5,"São João de Meriti, RJ, BRAZIL",51
+4,Cluster 5,"Barueri, SP, BRAZIL",49
+4,Cluster 5,"Diadema, SP, BRAZIL",50
+4,Cluster 5,"Tatuí, SP, BRAZIL",27
+4,Cluster 5,"Votorantim, SP, BRAZIL",27
+4,Cluster 5,"Mauá, SP, BRAZIL",37
+4,Cluster 5,"Salto, SP, BRAZIL",49
+4,Cluster 5,"Itaguaí, RJ, BRAZIL",51
+4,Cluster 5,"Rio de Janeiro, RJ, BRAZIL",100
+4,Cluster 5,"Itu, SP, BRAZIL",50
+4,Cluster 5,"Franco da Rocha, SP, BRAZIL",42
+4,Cluster 5,"Itatiba, SP, BRAZIL",22
+4,Cluster 5,"Carapicuíba, SP, BRAZIL",48
+4,Cluster 5,"Bragança Paulista, SP, BRAZIL",47
+4,Cluster 5,"Atibaia, SP, BRAZIL",29
+4,Cluster 5,"Nilópolis, RJ, BRAZIL",45
+4,Cluster 5,"Araras, SP, BRAZIL",43
+4,Cluster 5,"Ribeirão Pires, SP, BRAZIL",41
+4,Cluster 5,"Maricá, RJ, BRAZIL",47
+4,Cluster 5,"Bauru, SP, BRAZIL",43
+4,Cluster 5,"Mogi Guaçu, SP, BRAZIL",41
+4,Cluster 5,"Uruguaiana, RS, BRAZIL",13
+4,Cluster 5,"Jacareí, SP, BRAZIL",31
+4,Cluster 5,"Bragança, PA, BRAZIL",48
+4,Cluster 5,"Presidente Prudente, SP, BRAZIL",51
+4,Cluster 5,"Francisco Morato, SP, BRAZIL",29
+4,Cluster 5,"Itaboraí, RJ, BRAZIL",49
+4,Cluster 5,"São Pedro da Aldeia, RJ, BRAZIL",40
+4,Cluster 5,"Santo André, SP, BRAZIL",61

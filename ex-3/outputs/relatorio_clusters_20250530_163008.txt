@@ -1,0 +1,462 @@
+RELATÓRIO DE ANÁLISE DE CLUSTERS DE CRIMINALIDADE
+=======================================================
+
+Data da análise: 30/05/2025 16:30:08
+Número total de municípios: 318
+Número de clusters identificados: 5
+Parâmetro K (vizinhos): 5
+Modelo de embeddings: paraphrase-MiniLM-L6-v2
+
+ESTATÍSTICAS DOS CLUSTERS:
+------------------------------
+
+Cluster 1:
+  - Número de cidades: 173
+  - Total de crimes: 8482
+  - Média de crimes por cidade: 49.03
+  - Cidades exemplo: Cuiabá, MT, BRAZIL, Linhares, ES, BRAZIL, Foz do Iguaçu, PR, BRAZIL, Várzea Grande, MT, BRAZIL, Tubarão, SC, BRAZIL
+
+Cluster 3:
+  - Número de cidades: 65
+  - Total de crimes: 3485
+  - Média de crimes por cidade: 53.62
+  - Cidades exemplo: Franca, SP, BRAZIL, Rio Verde, GO, BRAZIL, Campina Grande, PB, BRAZIL, Araguari, MG, BRAZIL, Montes Claros, MG, BRAZIL
+
+Cluster 5:
+  - Número de cidades: 54
+  - Total de crimes: 2563
+  - Média de crimes por cidade: 47.46
+  - Cidades exemplo: Marília, SP, BRAZIL, Taboão da Serra, SP, BRAZIL, São Bernardo do Campo, SP, BRAZIL, Itapecerica da Serra, SP, BRAZIL, São Gonçalo, RJ, BRAZIL
+
+Cluster 2:
+  - Número de cidades: 17
+  - Total de crimes: 830
+  - Média de crimes por cidade: 48.82
+  - Cidades exemplo: Itabuna, BA, BRAZIL, Luís Eduardo Magalhães, BA, BRAZIL, Ilhéus, BA, BRAZIL, Paulo Afonso, BA, BRAZIL, Alagoinhas, BA, BRAZIL
+
+Cluster 4:
+  - Número de cidades: 9
+  - Total de crimes: 276
+  - Média de crimes por cidade: 30.67
+  - Cidades exemplo: Anápolis, GO, BRAZIL, Formosa, GO, BRAZIL, Aparecida de Goiânia, GO, BRAZIL, Luziânia, GO, BRAZIL, Planaltina, GO, BRAZIL
+
+DETALHES DOS CLUSTERS:
+-------------------------
+
+=== CLUSTER 1 ===
+Cidades (173):
+    1. Abaetetuba, PA, BRAZIL
+    2. Almirante Tamandaré, PR, BRAZIL
+    3. Altamira, PA, BRAZIL
+    4. Alvorada, RS, BRAZIL
+    5. Ananindeua, PA, BRAZIL
+    6. Angra dos Reis, RJ, BRAZIL
+    7. Apucarana, PR, BRAZIL
+    8. Aracaju, SE, BRAZIL
+    9. Araguaína, TO, BRAZIL
+   10. Arapongas, PR, BRAZIL
+   11. Araruama, RJ, BRAZIL
+   12. Araucária, PR, BRAZIL
+   13. Araxá, MG, BRAZIL
+   14. Assis, SP, BRAZIL
+   15. Açailândia, MA, BRAZIL
+   16. Bagé, RS, BRAZIL
+   17. Balneário Camboriú, SC, BRAZIL
+   18. Balsas, MA, BRAZIL
+   19. Barcarena, PA, BRAZIL
+   20. Barra Mansa, RJ, BRAZIL
+   21. Barretos, SP, BRAZIL
+   22. Belford Roxo, RJ, BRAZIL
+   23. Belém, PA, BRAZIL
+   24. Bento Gonçalves, RS, BRAZIL
+   25. Birigui, SP, BRAZIL
+   26. Blumenau, SC, BRAZIL
+   27. Breves, PA, BRAZIL
+   28. Brusque, SC, BRAZIL
+   29. Cabo Frio, RJ, BRAZIL
+   30. Cabo de Santo Agostinho, PE, BRAZIL
+   31. Cachoeirinha, RS, BRAZIL
+   32. Cachoeiro de Itapemirim, ES, BRAZIL
+   33. Camaragibe, PE, BRAZIL
+   34. Camboriú, SC, BRAZIL
+   35. Cambé, PR, BRAZIL
+   36. Cametá, PA, BRAZIL
+   37. Campo Grande, MS, BRAZIL
+   38. Campo Largo, PR, BRAZIL
+   39. Campos dos Goytacazes, RJ, BRAZIL
+   40. Canoas, RS, BRAZIL
+   41. Cariacica, ES, BRAZIL
+   42. Caruaru, PE, BRAZIL
+   43. Cascavel, PR, BRAZIL
+   44. Castanhal, PA, BRAZIL
+   45. Catalão, GO, BRAZIL
+   46. Caucaia, CE, BRAZIL
+   47. Caxias do Sul, RS, BRAZIL
+   48. Caxias, MA, BRAZIL
+   49. Codó, MA, BRAZIL
+   50. Colatina, ES, BRAZIL
+   51. Colombo, PR, BRAZIL
+   52. Coronel Fabriciano, MG, BRAZIL
+   53. Crato, CE, BRAZIL
+   54. Criciúma, SC, BRAZIL
+   55. Cuiabá, MT, BRAZIL
+   56. Curitiba, PR, BRAZIL
+   57. Dourados, MS, BRAZIL
+   58. Duque de Caxias, RJ, BRAZIL
+   59. Fazenda Rio Grande, PR, BRAZIL
+   60. Ferraz de Vasconcelos, SP, BRAZIL
+   61. Florianópolis, SC, BRAZIL
+   62. Fortaleza, CE, BRAZIL
+   63. Foz do Iguaçu, PR, BRAZIL
+   64. Garanhuns, PE, BRAZIL
+   65. Governador Valadares, MG, BRAZIL
+   66. Gravataí, RS, BRAZIL
+   67. Guarapari, ES, BRAZIL
+   68. Guarapuava, PR, BRAZIL
+   69. Guaratinguetá, SP, BRAZIL
+   70. Ibirité, MG, BRAZIL
+   71. Igarassu, PE, BRAZIL
+   72. Imperatriz, MA, BRAZIL
+   73. Ipatinga, MG, BRAZIL
+   74. Itabaiana, SE, BRAZIL
+   75. Itabira, MG, BRAZIL
+   76. Itacoatiara, AM, BRAZIL
+   77. Itaituba, PA, BRAZIL
+   78. Itajaí, SC, BRAZIL
+   79. Itaperuna, RJ, BRAZIL
+   80. Itapipoca, CE, BRAZIL
+   81. Itaquaquecetuba, SP, BRAZIL
+   82. Jaboatão dos Guararapes, PE, BRAZIL
+   83. Jataí, GO, BRAZIL
+   84. Jaú, SP, BRAZIL
+   85. Ji-Paraná, RO, BRAZIL
+   86. Joinville, SC, BRAZIL
+   87. João Pessoa, PB, BRAZIL
+   88. Juazeiro do Norte, CE, BRAZIL
+   89. Lagarto, SE, BRAZIL
+   90. Lages, SC, BRAZIL
+   91. Linhares, ES, BRAZIL
+   92. Londrina, PR, BRAZIL
+   93. Macapá, AP, BRAZIL
+   94. Macaé, RJ, BRAZIL
+   95. Maceió, AL, BRAZIL
+   96. Magé, RJ, BRAZIL
+   97. Manacapuru, AM, BRAZIL
+   98. Marabá, PA, BRAZIL
+   99. Maracanaú, CE, BRAZIL
+  100. Maranguape, CE, BRAZIL
+  101. Marituba, PA, BRAZIL
+  102. Mossoró, RN, BRAZIL
+  103. Natal, RN, BRAZIL
+  104. Niterói, RJ, BRAZIL
+  105. Nossa Senhora do Socorro, SE, BRAZIL
+  106. Nova Friburgo, RJ, BRAZIL
+  107. Novo Hamburgo, RS, BRAZIL
+  108. Olinda, PE, BRAZIL
+  109. Osasco, SP, BRAZIL
+  110. Ourinhos, SP, BRAZIL
+  111. Palhoça, SC, BRAZIL
+  112. Palmas, TO, BRAZIL
+  113. Paragominas, PA, BRAZIL
+  114. Paranaguá, PR, BRAZIL
+  115. Parauapebas, PA, BRAZIL
+  116. Parnamirim, RN, BRAZIL
+  117. Parnaíba, PI, BRAZIL
+  118. Passo Fundo, RS, BRAZIL
+  119. Patos, PB, BRAZIL
+  120. Paulista, PE, BRAZIL
+  121. Paço do Lumiar, MA, BRAZIL
+  122. Pelotas, RS, BRAZIL
+  123. Petrolina, PE, BRAZIL
+  124. Pindamonhangaba, SP, BRAZIL
+  125. Pinhais, PR, BRAZIL
+  126. Piraquara, PR, BRAZIL
+  127. Ponta Grossa, PR, BRAZIL
+  128. Porto Alegre, RS, BRAZIL
+  129. Porto Velho, RO, BRAZIL
+  130. Poá, SP, BRAZIL
+  131. Queimados, RJ, BRAZIL
+  132. Recife, PE, BRAZIL
+  133. Rio Grande, RS, BRAZIL
+  134. Rio das Ostras, RJ, BRAZIL
+  135. Santa Cruz do Sul, RS, BRAZIL
+  136. Santa Maria, RS, BRAZIL
+  137. Santa Rita, PB, BRAZIL
+  138. Santana, AP, BRAZIL
+  139. Santarém, PA, BRAZIL
+  140. Sapucaia do Sul, RS, BRAZIL
+  141. Sarandi, PR, BRAZIL
+  142. Senador Canedo, GO, BRAZIL
+  143. Serra, ES, BRAZIL
+  144. Sinop, MT, BRAZIL
+  145. Sobral, CE, BRAZIL
+  146. Sorriso, MT, BRAZIL
+  147. Suzano, SP, BRAZIL
+  148. São Gonçalo do Amarante, RN, BRAZIL
+  149. São José de Ribamar, MA, BRAZIL
+  150. São José dos Campos, SP, BRAZIL
+  151. São José dos Pinhais, PR, BRAZIL
+  152. São José, SC, BRAZIL
+  153. São Leopoldo, RS, BRAZIL
+  154. São Lourenço da Mata, PE, BRAZIL
+  155. São Luís, MA, BRAZIL
+  156. São Mateus, ES, BRAZIL
+  157. Tangará da Serra, MT, BRAZIL
+  158. Teixeira de Freitas, BA, BRAZIL
+  159. Teresina, PI, BRAZIL
+  160. Teresópolis, RJ, BRAZIL
+  161. Teófilo Otoni, MG, BRAZIL
+  162. Timon, MA, BRAZIL
+  163. Toledo, PR, BRAZIL
+  164. Três Lagoas, MS, BRAZIL
+  165. Tubarão, SC, BRAZIL
+  166. Umuarama, PR, BRAZIL
+  167. Valparaíso de Goiás, GO, BRAZIL
+  168. Varginha, MG, BRAZIL
+  169. Viamão, RS, BRAZIL
+  170. Vila Velha, ES, BRAZIL
+  171. Vitória de Santo Antão, PE, BRAZIL
+  172. Vitória, ES, BRAZIL
+  173. Várzea Grande, MT, BRAZIL
+
+Amostras de descrições de crimes (primeiras 3 cidades):
+
+Abaetetuba, PA, BRAZIL (30 ocorrências):
+  - Homem suspeito de participação na morte de PM é preso em Abaetetuba - G1...
+  - Trio é preso em flagrante por roubo, em Abaetetuba - Polícia Civil do Pará...
+  - Operação desarticula suspeitos de extorquir comerciantes em Abaetetuba e Belém - O Liberal...
+
+Almirante Tamandaré, PR, BRAZIL (35 ocorrências):
+  - Bom Dia Paraná | Polícia investiga assalto em banco de Almirante Tamandaré - Globoplay...
+  - Bandidos podem ter levado R$ 400 mil após assalto a banco em Alm. Tamandaré, diz PM; quatro estariam...
+  - Roubo a banco mobiliza policiais militares em Alm. Tamandaré (PR) - Terra...
+
+Altamira, PA, BRAZIL (37 ocorrências):
+  - Bom Dia Pará | PM é baleado durante tentativa de assalto em Bragança, no PA - Globoplay...
+  - Suspeito confessa que estuprou e matou criança de 5 anos em Altamira - diariodopara.com.br...
+  - Polícia prende membro do alto escalão de facção criminosa atuante em Altamira, no Pará - G1...
+
+=== CLUSTER 2 ===
+Cidades (17):
+    1. Alagoinhas, BA, BRAZIL
+    2. Barreiras, BA, BRAZIL
+    3. Camaçari, BA, BRAZIL
+    4. Eunápolis, BA, BRAZIL
+    5. Feira de Santana, BA, BRAZIL
+    6. Ilhéus, BA, BRAZIL
+    7. Itabuna, BA, BRAZIL
+    8. Jequié, BA, BRAZIL
+    9. Juazeiro, BA, BRAZIL
+   10. Lauro de Freitas, BA, BRAZIL
+   11. Luís Eduardo Magalhães, BA, BRAZIL
+   12. Paulo Afonso, BA, BRAZIL
+   13. Porto Seguro, BA, BRAZIL
+   14. Salvador, BA, BRAZIL
+   15. Santo Antônio de Jesus, BA, BRAZIL
+   16. Simões Filho, BA, BRAZIL
+   17. Vitória da Conquista, BA, BRAZIL
+
+Amostras de descrições de crimes (primeiras 3 cidades):
+
+Alagoinhas, BA, BRAZIL (36 ocorrências):
+  - Ônibus com 50 passageiros é assaltado em rodovia na Bahia; veículo saiu da Paraíba com destino ao Ri...
+  - Em Seabra (BA), PRF apreende Veículo com restrição de furto/roubo — Polícia Rodoviária Federal - www...
+  - Suspeito de homicídio é linchado e tem casa incendiada na Bahia - A TARDE...
+
+Barreiras, BA, BRAZIL (34 ocorrências):
+  - PRF prende suspeito de envolvimento em assaltos a bancos e cargas em Barreiras (BA) — Polícia Rodovi...
+  - Filho de ex-secretário da Educação de Barreiras, no oeste da Bahia, é morto a tiros; VÍDEO - G1...
+  - Barreiras: Homem de 27 anos é morto a tiros no final desta madrugada no bairro Santa Luzia - Blog Br...
+
+Camaçari, BA, BRAZIL (47 ocorrências):
+  - Jovem morto durante assalto em Camaçari sonhava em ser cineasta - G1...
+  - Jovem de 18 anos é assassinado a tiros ao ser vítima de assalto na Região Metropolitana de Salvador ...
+  - Jovem de 18 anos é morto durante assalto em Camaçari - correio24horas.com.br...
+
+=== CLUSTER 3 ===
+Cidades (65):
+    1. Americana, SP, BRAZIL
+    2. Araguari, MG, BRAZIL
+    3. Araraquara, SP, BRAZIL
+    4. Araçatuba, SP, BRAZIL
+    5. Bacabal, MA, BRAZIL
+    6. Barbacena, MG, BRAZIL
+    7. Belo Horizonte, MG, BRAZIL
+    8. Betim, MG, BRAZIL
+    9. Boa Vista, RR, BRAZIL
+   10. Campina Grande, PB, BRAZIL
+   11. Campinas, SP, BRAZIL
+   12. Caraguatatuba, SP, BRAZIL
+   13. Catanduva, SP, BRAZIL
+   14. Chapecó, SC, BRAZIL
+   15. Conselheiro Lafaiete, MG, BRAZIL
+   16. Contagem, MG, BRAZIL
+   17. Cotia, SP, BRAZIL
+   18. Cubatão, SP, BRAZIL
+   19. Divinópolis, MG, BRAZIL
+   20. Franca, SP, BRAZIL
+   21. Guarujá, SP, BRAZIL
+   22. Guarulhos, SP, BRAZIL
+   23. Hortolândia, SP, BRAZIL
+   24. Indaiatuba, SP, BRAZIL
+   25. Itanhaém, SP, BRAZIL
+   26. Ituiutaba, MG, BRAZIL
+   27. Jaraguá do Sul, SC, BRAZIL
+   28. Juiz de Fora, MG, BRAZIL
+   29. Limeira, SP, BRAZIL
+   30. Manaus, AM, BRAZIL
+   31. Mogi das Cruzes, SP, BRAZIL
+   32. Montes Claros, MG, BRAZIL
+   33. Muriaé, MG, BRAZIL
+   34. Nova Lima, MG, BRAZIL
+   35. Nova Serrana, MG, BRAZIL
+   36. Passos, MG, BRAZIL
+   37. Patos de Minas, MG, BRAZIL
+   38. Paulínia, SP, BRAZIL
+   39. Petrópolis, RJ, BRAZIL
+   40. Pouso Alegre, MG, BRAZIL
+   41. Poços de Caldas, MG, BRAZIL
+   42. Praia Grande, SP, BRAZIL
+   43. Resende, RJ, BRAZIL
+   44. Ribeirão Preto, SP, BRAZIL
+   45. Ribeirão das Neves, MG, BRAZIL
+   46. Rio Branco, AC, BRAZIL
+   47. Rio Claro, SP, BRAZIL
+   48. Rio Verde, GO, BRAZIL
+   49. Sabará, MG, BRAZIL
+   50. Santa Bárbara d'Oeste, SP, BRAZIL
+   51. Santa Luzia, MG, BRAZIL
+   52. Santos, SP, BRAZIL
+   53. Sertãozinho, SP, BRAZIL
+   54. Sete Lagoas, MG, BRAZIL
+   55. Sumaré, SP, BRAZIL
+   56. São Carlos, SP, BRAZIL
+   57. São José do Rio Preto, SP, BRAZIL
+   58. São Vicente, SP, BRAZIL
+   59. Taubaté, SP, BRAZIL
+   60. Uberaba, MG, BRAZIL
+   61. Uberlândia, MG, BRAZIL
+   62. Ubá, MG, BRAZIL
+   63. Valinhos, SP, BRAZIL
+   64. Vespasiano, MG, BRAZIL
+   65. Volta Redonda, RJ, BRAZIL
+
+Amostras de descrições de crimes (primeiras 3 cidades):
+
+Americana, SP, BRAZIL (49 ocorrências):
+  - Roubo de moto termina com uma pessoa baleada e sete suspeitos detidos em Americana - G1...
+  - As ruas mais perigosas para furtos e roubos em Americana; confira - Novo Momento...
+  - Polícia prende envolvidos em roubo de moto em Americana - Band...
+
+Araguari, MG, BRAZIL (19 ocorrências):
+  - Casal reage a assalto e imobiliza criminoso que invadiu casa no Bairro Fátima, em Araguari - G1...
+  - Pastor foragido há mais de 20 anos por roubo e sequestro é preso na zona rural de Araguari - G1...
+  - Acidente deixa três mortos em MG; só criança sobreviveu - Portal O Tempo...
+
+Araraquara, SP, BRAZIL (50 ocorrências):
+  - Homem é morto com tiro no peito na frente do filho de 5 anos durante assalto em Araraquara - G1...
+  - Principais índices de criminalidade caem em Araraquara em 2023, revela SSP - ACidade ON...
+  - Policial civil aposentado que atuava como segurança é baleado durante roubo e morre no hospital - G1...
+
+=== CLUSTER 4 ===
+Cidades (9):
+    1. Anápolis, GO, BRAZIL
+    2. Aparecida de Goiânia, GO, BRAZIL
+    3. Formosa, GO, BRAZIL
+    4. Goiânia, GO, BRAZIL
+    5. Luziânia, GO, BRAZIL
+    6. Novo Gama, GO, BRAZIL
+    7. Planaltina, GO, BRAZIL
+    8. Trindade, GO, BRAZIL
+    9. Águas Lindas de Goiás, GO, BRAZIL
+
+Amostras de descrições de crimes (primeiras 3 cidades):
+
+Anápolis, GO, BRAZIL (45 ocorrências):
+  - Anápolis tem redução histórica dos índices de criminalidade | Notícias | Governo e Administração - P...
+  - Cerca de 60% dos furtos e roubos de Anápolis acontecem no Jundiaí; saiba quais outros bairros são ma...
+  - Assaltante é morto ao tentar roubar carro em que policial estava na BR-153, diz PM - G1...
+
+Aparecida de Goiânia, GO, BRAZIL (28 ocorrências):
+  - Funcionárias desviam quase R$ 1 milhão de transportadora em Aparecida de Goiânia, diz polícia - G1...
+  - PMGO prende três por tentativa de latrocínio e recupera veículo em Goiânia - goias.gov.br...
+  - Motorista para na região dos motéis em Aparecida de Goiânia em plena luz do dia e história muda de r...
+
+Formosa, GO, BRAZIL (21 ocorrências):
+  - Assaltante é atropelado por cúmplice após roubo em Formosa, Goiás - O Antagonista...
+  - PRF flagra irregularidades em veículos de grande porte na BR-020, em Formosa/GO — Polícia Rodoviária...
+  - Após render família e funcionários de depósito de gás em Lagoa Formosa, trio rouba R$ 400 mil e foge...
+
+=== CLUSTER 5 ===
+Cidades (54):
+    1. Arapiraca, AL, BRAZIL
+    2. Araras, SP, BRAZIL
+    3. Atibaia, SP, BRAZIL
+    4. Barueri, SP, BRAZIL
+    5. Bauru, SP, BRAZIL
+    6. Botucatu, SP, BRAZIL
+    7. Bragança Paulista, SP, BRAZIL
+    8. Bragança, PA, BRAZIL
+    9. Brasília, DF, BRAZIL
+   10. Carapicuíba, SP, BRAZIL
+   11. Diadema, SP, BRAZIL
+   12. Erechim, RS, BRAZIL
+   13. Francisco Morato, SP, BRAZIL
+   14. Franco da Rocha, SP, BRAZIL
+   15. Itaboraí, RJ, BRAZIL
+   16. Itaguaí, RJ, BRAZIL
+   17. Itapecerica da Serra, SP, BRAZIL
+   18. Itapetininga, SP, BRAZIL
+   19. Itapevi, SP, BRAZIL
+   20. Itatiba, SP, BRAZIL
+   21. Itu, SP, BRAZIL
+   22. Itumbiara, GO, BRAZIL
+   23. Jacareí, SP, BRAZIL
+   24. Jandira, SP, BRAZIL
+   25. Jundiaí, SP, BRAZIL
+   26. Lavras, MG, BRAZIL
+   27. Maricá, RJ, BRAZIL
+   28. Maringá, PR, BRAZIL
+   29. Marília, SP, BRAZIL
+   30. Mauá, SP, BRAZIL
+   31. Mesquita, RJ, BRAZIL
+   32. Mogi Guaçu, SP, BRAZIL
+   33. Nilópolis, RJ, BRAZIL
+   34. Nova Iguaçu, RJ, BRAZIL
+   35. Piracicaba, SP, BRAZIL
+   36. Presidente Prudente, SP, BRAZIL
+   37. Ribeirão Pires, SP, BRAZIL
+   38. Rio de Janeiro, RJ, BRAZIL
+   39. Rondonópolis, MT, BRAZIL
+   40. Salto, SP, BRAZIL
+   41. Santana de Parnaíba, SP, BRAZIL
+   42. Santo André, SP, BRAZIL
+   43. Sorocaba, SP, BRAZIL
+   44. São Bernardo do Campo, SP, BRAZIL
+   45. São Caetano do Sul, SP, BRAZIL
+   46. São Gonçalo, RJ, BRAZIL
+   47. São João de Meriti, RJ, BRAZIL
+   48. São Paulo, SP, BRAZIL
+   49. São Pedro da Aldeia, RJ, BRAZIL
+   50. Taboão da Serra, SP, BRAZIL
+   51. Tatuí, SP, BRAZIL
+   52. Uruguaiana, RS, BRAZIL
+   53. Votorantim, SP, BRAZIL
+   54. Várzea Paulista, SP, BRAZIL
+
+Amostras de descrições de crimes (primeiras 3 cidades):
+
+Arapiraca, AL, BRAZIL (47 ocorrências):
+  - Mulher é baleada e morta em tentativa de assalto na volta do trabalho em Arapiraca - G1...
+  - Vídeo: Mulher joga pedra em bandidos após assalto em Arapiraca - Alagoas 24 Horas...
+  - Com o apoio do videomonitoramento, Guarda e polícias Militar e Civil recuperam carro roubado em Arap...
+
+Araras, SP, BRAZIL (43 ocorrências):
+  - Dois jovens são mortos por policial à paisana em tentativa de roubo de moto BMW em Araras - G1...
+  - Quadrilha Assalta Casa em Araras (SP) e Criminoso Morre Após Confronto com Policiais em Atibaia - Jo...
+  - Trio invade casa de GCM de Araras com controle de garagem e chave e foge com armas e celulares - G1...
+
+Atibaia, SP, BRAZIL (29 ocorrências):
+  - Polícia Civil faz buscas por trio que rendeu moradores e roubou casa em Atibaia, SP - G1...
+  - Furtos diminuem em Atibaia, mas roubos aumentam - O Atibaiense...
+  - Polícia recupera R$ 400 mil em artigos de luxo e prende dupla suspeita de roubo a casa no interior d...

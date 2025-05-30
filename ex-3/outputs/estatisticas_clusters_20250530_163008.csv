@@ -1,0 +1,6 @@
+cluster_id,num_cities,total_crimes,avg_crimes_per_city,sample_cities
+0,173,8482,49.028901734104046,"Cuiabá, MT, BRAZIL, Linhares, ES, BRAZIL, Foz do Iguaçu, PR, BRAZIL, Várzea Grande, MT, BRAZIL, Tubarão, SC, BRAZIL"
+2,65,3485,53.61538461538461,"Franca, SP, BRAZIL, Rio Verde, GO, BRAZIL, Campina Grande, PB, BRAZIL, Araguari, MG, BRAZIL, Montes Claros, MG, BRAZIL"
+4,54,2563,47.46296296296296,"Marília, SP, BRAZIL, Taboão da Serra, SP, BRAZIL, São Bernardo do Campo, SP, BRAZIL, Itapecerica da Serra, SP, BRAZIL, São Gonçalo, RJ, BRAZIL"
+1,17,830,48.8235294117647,"Itabuna, BA, BRAZIL, Luís Eduardo Magalhães, BA, BRAZIL, Ilhéus, BA, BRAZIL, Paulo Afonso, BA, BRAZIL, Alagoinhas, BA, BRAZIL"
+3,9,276,30.666666666666668,"Anápolis, GO, BRAZIL, Formosa, GO, BRAZIL, Aparecida de Goiânia, GO, BRAZIL, Luziânia, GO, BRAZIL, Planaltina, GO, BRAZIL"

@@ -1,0 +1,28 @@
+RELATÓRIO DE ANÁLISE DE SIMILARIDADE DE CRIMES
+==================================================
+
+Data da análise: 30/05/2025 15:48:33
+Número de municípios analisados: 318
+Threshold de similaridade: 0.7
+Modelo de embeddings: paraphrase-MiniLM-L6-v2
+
+TOP 10 MUNICÍPIOS POR PROBABILIDADE ESTACIONÁRIA:
+---------------------------------------------
+208. Paulista, PE, BRAZIL           0.0032
+238. Rio Verde, GO, BRAZIL          0.0032
+105. Franco da Rocha, SP, BRAZIL    0.0032
+134. Itapevi, SP, BRAZIL            0.0032
+98. Ferraz de Vasconcelos, SP, BRAZIL 0.0032
+205. Passos, MG, BRAZIL             0.0032
+141. Jaboatão dos Guararapes, PE, BRAZIL 0.0032
+281. São Lourenço da Mata, PE, BRAZIL 0.0032
+38. Belo Horizonte, MG, BRAZIL     0.0032
+283. São Mateus, ES, BRAZIL         0.0032
+
+ESTATÍSTICAS DA DISTRIBUIÇÃO ESTACIONÁRIA:
+----------------------------------------
+Média: 0.0031
+Desvio padrão: 0.0001
+Máximo: 0.0032
+Mínimo: 0.0028
+Mediana: 0.0032

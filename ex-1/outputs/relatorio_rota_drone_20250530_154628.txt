@@ -1,0 +1,1613 @@
+================================================================================
+RELATÓRIO DETALHADO DA MISSÃO DO DRONE
+================================================================================
+Data/Hora da Geração: 30/05/2025 às 15:46:28
+Capital de Partida: Brasília
+Autonomia do Drone: 750 km por segmento
+
+RESUMO EXECUTIVO:
+--------------------------------------------------
+✓ Taxa de Cobertura: 218/318 cidades (68.6%)
+✓ Reabastecimentos Necessários: 45
+✓ Distância Total da Missão: 30515.16 km
+✓ Tempo Estimado de Voo: 305.2 horas
+
+ANÁLISE ESTATÍSTICA COMPLEMENTAR:
+--------------------------------------------------
+• Distância média entre pontos: 116.0 km
+• Menor distância percorrida: 0.4 km
+• Maior distância percorrida: 739.0 km
+• Eficiência energética: 4.7 cidades por tanque
+• Consumo médio: 140.0 km por cidade visitada
+• Distância média por reabastecimento: 663.4 km
+• Média de reabastecimentos por cidade visitada: 0.21
+
+ROTEIRO CRONOLÓGICO DA MISSÃO:
+--------------------------------------------------
+ 1. 🚁 DECOLAGEM: Brasília
+    Localização: -15.7939°, -47.8828°
+    Distância acumulada: 0.0 km
+    Combustível no segmento: 0.0 km
+
+ 2. 📍 MONITORAMENTO: Chuva causa alagamentos na região central de Brasília; assista - Poder360
+    Localização: -15.7941°, -47.8879°
+    Distância da etapa anterior: 0.5 km
+    Distância acumulada: 0.5 km
+    Combustível no segmento: 0.5 km
+
+ 3. 📍 MONITORAMENTO: Vídeo: temporal causa destruição e arrasta carros em Valparaíso (GO) - Metrópoles
+    Localização: -16.0696°, -47.9841°
+    Distância da etapa anterior: 32.3 km
+    Distância acumulada: 32.9 km
+    Combustível no segmento: 32.9 km
+
+ 4. 📍 MONITORAMENTO: Goiânia tem 60% da chuva do mês em 24h; MT, MS e GO em alerta - Terra
+    Localização: -16.0561°, -48.0372°
+    Distância da etapa anterior: 5.9 km
+    Distância acumulada: 38.7 km
+    Combustível no segmento: 38.7 km
+
+ 5. 📍 MONITORAMENTO: Adolescentes se arriscam pulando manilhas durante enxurrada para gravar vídeo - G1
+    Localização: -16.2585°, -47.9557°
+    Distância da etapa anterior: 24.1 km
+    Distância acumulada: 62.9 km
+    Combustível no segmento: 62.9 km
+
+ 6. 📍 MONITORAMENTO: Após 150 dias de estiagem, chove em Águas Lindas de Goiás - R7
+    Localização: -15.7379°, -48.2834°
+    Distância da etapa anterior: 67.7 km
+    Distância acumulada: 130.5 km
+    Combustível no segmento: 130.5 km
+
+ 7. 📍 MONITORAMENTO: Tempestade deixa ao menos 120 pessoas com casas alagadas em Planaltina, diz Corpo de Bombeiros - G1
+    Localização: -15.4531°, -47.6148°
+    Distância da etapa anterior: 78.3 km
+    Distância acumulada: 208.8 km
+    Combustível no segmento: 208.8 km
+
+ 8. 📍 MONITORAMENTO: Servidor municipal morre após ser arrastado por enxurrada durante temporal em Goiás - G1
+    Localização: -15.5409°, -47.3358°
+    Distância da etapa anterior: 31.5 km
+    Distância acumulada: 240.3 km
+    Combustível no segmento: 240.3 km
+
+ 9. 📍 MONITORAMENTO: Defesa Civil intensifica trabalhos para período de fortes chuvas em Anápolis - Prefeitura de Anápolis
+    Localização: -16.3288°, -48.9572°
+    Distância da etapa anterior: 194.2 km
+    Distância acumulada: 434.5 km
+    Combustível no segmento: 434.5 km
+
+10. 📍 MONITORAMENTO: Prefeitura de Senador Canedo orienta sobre rotas alternativas para evitar pontos de inundação - Prefeitura de Senador Canedo
+    Localização: -16.7186°, -49.0880°
+    Distância da etapa anterior: 45.5 km
+    Distância acumulada: 480.0 km
+    Combustível no segmento: 480.0 km
+
+11. 📍 MONITORAMENTO: Chuva em Goiânia faz córregos transbordarem, deixa ruas alagadas e causa queda de árvores; vídeos - G1
+    Localização: -16.6733°, -49.2558°
+    Distância da etapa anterior: 18.6 km
+    Distância acumulada: 498.6 km
+    Combustível no segmento: 498.6 km
+
+12. 📍 MONITORAMENTO: Alerta de temporal é emitido para Goiás no fim de semana; veja onde há áreas de risco em Goiânia e o que fazer em casos de inundações - G1
+    Localização: -16.8221°, -49.2433°
+    Distância da etapa anterior: 16.6 km
+    Distância acumulada: 515.2 km
+    Combustível no segmento: 515.2 km
+
+13. ⛽ REABASTECIMENTO: Goiânia
+    Localização: -16.6667°, -49.2500°
+    Distância da etapa anterior: 17.3 km
+    Distância acumulada: 532.5 km
+    Combustível no segmento: 532.5 km
+
+14. 📍 MONITORAMENTO: Linhares foi a cidade onde mais choveu no Brasil em 24 horas - A Gazeta
+    Localização: -18.4177°, -49.2209°
+    Distância da etapa anterior: -337.8 km
+    Distância acumulada: 727.3 km
+    Combustível no segmento: 194.7 km
+
+15. 📍 MONITORAMENTO: 'Microexplosão’: Temporal deixa pessoas ilhadas, compromete o fornecimento de energia e arranca parte do asfalto de Ituiutaba - G1
+    Localização: -18.9731°, -49.4622°
+    Distância da etapa anterior: 66.8 km
+    Distância acumulada: 794.0 km
+    Combustível no segmento: 261.5 km
+
+16. 📍 MONITORAMENTO: Chuva em Uberlândia deixa ruas alagadas, pessoas ilhadas e rio chega a transbordar - G1
+    Localização: -18.9190°, -48.2779°
+    Distância da etapa anterior: 124.7 km
+    Distância acumulada: 918.7 km
+    Combustível no segmento: 386.2 km
+
+17. 📍 MONITORAMENTO: Chuva forte provoca diversos estragos em Araguari, no Triângulo Mineiro - Portal O Tempo
+    Localização: -18.6483°, -48.1916°
+    Distância da etapa anterior: 31.4 km
+    Distância acumulada: 950.2 km
+    Combustível no segmento: 417.7 km
+
+18. 📍 MONITORAMENTO: Moradores têm casa alagada após rios transbordarem durante fortes chuvas em Catalão - G1
+    Localização: -18.1696°, -47.9477°
+    Distância da etapa anterior: 59.1 km
+    Distância acumulada: 1009.3 km
+    Combustível no segmento: 476.8 km
+
+19. ⛽ REABASTECIMENTO: Goiânia
+    Localização: -16.6667°, -49.2500°
+    Distância da etapa anterior: 216.8 km
+    Distância acumulada: 1226.1 km
+    Combustível no segmento: 693.6 km
+
+20. 📍 MONITORAMENTO: Chuva faz ruas virarem rios e deixa moradores ilhados em cidades de Goiás - G1
+    Localização: -17.7945°, -50.9297°
+    Distância da etapa anterior: -475.6 km
+    Distância acumulada: 1444.2 km
+    Combustível no segmento: 218.1 km
+
+21. 📍 MONITORAMENTO: Alerta de temporal é emitido para Goiás no fim de semana; veja onde há áreas de risco em Goiânia e o que fazer em casos de inundações - G1
+    Localização: -17.8862°, -51.7208°
+    Distância da etapa anterior: 84.4 km
+    Distância acumulada: 1528.6 km
+    Combustível no segmento: 302.4 km
+
+22. ⛽ REABASTECIMENTO: Goiânia
+    Localização: -16.6667°, -49.2500°
+    Distância da etapa anterior: 295.3 km
+    Distância acumulada: 1823.9 km
+    Combustível no segmento: 597.7 km
+
+23. 📍 MONITORAMENTO: Carros submersos, moradores ilhados e casas invadidas pela água: temporal faz estragos no último dia de 2024 em Patos de Minas e Patrocínio; veja vídeos - G1
+    Localização: -18.5926°, -46.5159°
+    Distância da etapa anterior: -237.5 km
+    Distância acumulada: 2184.1 km
+    Combustível no segmento: 360.3 km
+
+24. 📍 MONITORAMENTO: Galpão destelhado, alagamentos e notificação para desocupação de imóvel: temporal causa estragos em Nova Serrana - G1
+    Localização: -19.8759°, -44.9856°
+    Distância da etapa anterior: 214.9 km
+    Distância acumulada: 2399.0 km
+    Combustível no segmento: 575.2 km
+
+25. 📍 MONITORAMENTO: Chuva forte causa alagamentos e transtornos em Divinópolis; Defesa Civil monitora nível do Rio Itapecerica - G1
+    Localização: -20.1421°, -44.8939°
+    Distância da etapa anterior: 31.1 km
+    Distância acumulada: 2430.1 km
+    Combustível no segmento: 606.3 km
+
+26. 📍 MONITORAMENTO: Chuva e ventania causam estragos e prejuízos na Grande BH - G1
+    Localização: -19.9654°, -44.1976°
+    Distância da etapa anterior: 75.3 km
+    Distância acumulada: 2505.5 km
+    Combustível no segmento: 681.6 km
+
+27. 📍 MONITORAMENTO: Chuva causa alagamento em avenida movimentada de Contagem, na Grande BH - G1
+    Localização: -19.9434°, -44.0663°
+    Distância da etapa anterior: 13.9 km
+    Distância acumulada: 2519.4 km
+    Combustível no segmento: 695.5 km
+
+28. 📍 MONITORAMENTO: Bairro a Bairro: chuva aumenta cratera e deixa moradores de Ibirité (MG) ficam em alerta - R7
+    Localização: -20.0280°, -44.0567°
+    Distância da etapa anterior: 9.5 km
+    Distância acumulada: 2528.9 km
+    Combustível no segmento: 705.0 km
+
+29. 📍 MONITORAMENTO: Chuva causa alagamentos e arrasta carros em Venda Nova, em BH; VÍDEOS - G1
+    Localização: -19.9375°, -43.9265°
+    Distância da etapa anterior: 16.9 km
+    Distância acumulada: 2545.8 km
+    Combustível no segmento: 721.9 km
+
+30. 📍 MONITORAMENTO: Chuva intensa causa alagamento na BR-040, na Grande BH; VÍDEO - G1
+    Localização: -19.9839°, -43.8498°
+    Distância da etapa anterior: 9.5 km
+    Distância acumulada: 2555.3 km
+    Combustível no segmento: 731.5 km
+
+31. ⛽ REABASTECIMENTO: Belo Horizonte
+    Localização: -19.9167°, -43.9333°
+    Distância da etapa anterior: 11.5 km
+    Distância acumulada: 2566.8 km
+    Combustível no segmento: 742.9 km
+
+32. 📍 MONITORAMENTO: Chuva em Sabará revela falhas de infraestrutura urbana - FOLHA DE SABARÁ
+    Localização: -19.8925°, -43.8256°
+    Distância da etapa anterior: -731.4 km
+    Distância acumulada: 2578.4 km
+    Combustível no segmento: 11.6 km
+
+33. 📍 MONITORAMENTO: Sete pessoas são resgatadas em inundações e enxurradas em 32 minutos - Estado de Minas
+    Localização: -19.6930°, -43.9199°
+    Distância da etapa anterior: 24.3 km
+    Distância acumulada: 2602.7 km
+    Combustível no segmento: 35.9 km
+
+34. 📍 MONITORAMENTO: Moradores de Ribeirão das Neves (MG) registram destruição após temporal - R7
+    Localização: -19.7660°, -44.0858°
+    Distância da etapa anterior: 19.2 km
+    Distância acumulada: 2621.9 km
+    Combustível no segmento: 55.0 km
+
+35. 📍 MONITORAMENTO: Lagoas transbordam durante chuva forte em Sete Lagoas (MG) - R7
+    Localização: -19.4583°, -44.2396°
+    Distância da etapa anterior: 37.8 km
+    Distância acumulada: 2659.7 km
+    Combustível no segmento: 92.9 km
+
+36. 📍 MONITORAMENTO: BH e mais 793 cidades de Minas estão em alerta para chuva com risco de alagamento - Estado de Minas
+    Localização: -19.6382°, -43.2240°
+    Distância da etapa anterior: 108.3 km
+    Distância acumulada: 2768.0 km
+    Combustível no segmento: 201.1 km
+
+37. 📍 MONITORAMENTO: Tempestade provoca estragos e alagamentos em Coronel Fabriciano; veja vídeos - G1
+    Localização: -19.5251°, -42.6243°
+    Distância da etapa anterior: 64.1 km
+    Distância acumulada: 2832.0 km
+    Combustível no segmento: 265.2 km
+
+38. 📍 MONITORAMENTO: Tragédia em Ipatinga (MG) afetou milhares de pessoas; entenda os impactos - CNN Brasil
+    Localização: -19.4810°, -42.5204°
+    Distância da etapa anterior: 11.9 km
+    Distância acumulada: 2844.0 km
+    Combustível no segmento: 277.2 km
+
+39. 📍 MONITORAMENTO: Abrigos provisórios para moradores de áreas de risco em caso de chuva forte em Mesquita - Prefeitura de Mesquita
+    Localização: -19.2243°, -42.6057°
+    Distância da etapa anterior: 29.9 km
+    Distância acumulada: 2873.9 km
+    Combustível no segmento: 307.1 km
+
+40. 📍 MONITORAMENTO: Volume de chuva quase quatro vezes maior que o esperado deixa ruas alagadas em Governador Valadares - G1
+    Localização: -18.8529°, -41.9471°
+    Distância da etapa anterior: 80.6 km
+    Distância acumulada: 2954.5 km
+    Combustível no segmento: 387.7 km
+
+41. 📍 MONITORAMENTO: Temporal de duas horas provoca alagamentos em Colatina - A Gazeta
+    Localização: -19.5363°, -40.6303°
+    Distância da etapa anterior: 157.8 km
+    Distância acumulada: 3112.3 km
+    Combustível no segmento: 545.5 km
+
+42. 📍 MONITORAMENTO: Chuva forte provoca alagamento no Centro de Linhares; veja vídeo - A Gazeta
+    Localização: -19.3981°, -40.0653°
+    Distância da etapa anterior: 61.2 km
+    Distância acumulada: 3173.5 km
+    Combustível no segmento: 606.7 km
+
+43. 📍 MONITORAMENTO: Alerta de chuvas: Defesa Civil da Serra pede atenção da população - Prefeitura da Serra
+    Localização: -20.1568°, -40.2752°
+    Distância da etapa anterior: 87.2 km
+    Distância acumulada: 3260.6 km
+    Combustível no segmento: 693.8 km
+
+44. 📍 MONITORAMENTO: Chuva forte provoca alagamentos em bairros da Grande Vitória; veja vídeo - A Gazeta
+    Localização: -20.3202°, -40.3222°
+    Distância da etapa anterior: 18.8 km
+    Distância acumulada: 3279.5 km
+    Combustível no segmento: 712.6 km
+
+45. 📍 MONITORAMENTO: Chuva forte: veja quais bairros ficaram alagados em Vila Velha - ES360
+    Localização: -20.3384°, -40.2940°
+    Distância da etapa anterior: 3.6 km
+    Distância acumulada: 3283.0 km
+    Combustível no segmento: 716.2 km
+
+46. 📍 MONITORAMENTO: Cariacica tem chuva de granizo e bairros registram alagamentos; veja vídeo - A Gazeta
+    Localização: -20.2947°, -40.3906°
+    Distância da etapa anterior: 11.2 km
+    Distância acumulada: 3294.2 km
+    Combustível no segmento: 727.4 km
+
+47. ⛽ REABASTECIMENTO: Vitória
+    Localização: -20.3194°, -40.3378°
+    Distância da etapa anterior: 6.2 km
+    Distância acumulada: 3300.4 km
+    Combustível no segmento: 733.6 km
+
+48. 📍 MONITORAMENTO: Chuva forte alaga avenida Beira Mar e causa deslizamento em Guarapari - Folhaonline.es
+    Localização: -20.6660°, -40.4950°
+    Distância da etapa anterior: -691.7 km
+    Distância acumulada: 3342.2 km
+    Combustível no segmento: 41.9 km
+
+49. 📍 MONITORAMENTO: Bom Dia ES | Cachoeiro de Itapemirim também registrou estragos pela chuva - Globoplay
+    Localização: -20.8501°, -41.1119°
+    Distância da etapa anterior: 67.3 km
+    Distância acumulada: 3409.6 km
+    Combustível no segmento: 109.2 km
+
+50. 📍 MONITORAMENTO: Rios transbordam em cidades do Noroeste e deixam moradores ilhados - G1
+    Localização: -21.2106°, -41.8862°
+    Distância da etapa anterior: 89.8 km
+    Distância acumulada: 3499.4 km
+    Combustível no segmento: 199.0 km
+
+51. 📍 MONITORAMENTO: Temporal causa alagamentos e afeta abastecimento de água em cidades da Zona da Mata; VÍDEOS - G1
+    Localização: -21.1320°, -42.3611°
+    Distância da etapa anterior: 50.0 km
+    Distância acumulada: 3549.4 km
+    Combustível no segmento: 249.0 km
+
+52. 📍 MONITORAMENTO: Chuva em Ubá causa alagamentos, queda parcial de muro e deixa 10 pessoas desalojadas - G1
+    Localização: -21.1186°, -42.9368°
+    Distância da etapa anterior: 59.7 km
+    Distância acumulada: 3609.1 km
+    Combustível no segmento: 308.7 km
+
+53. 📍 MONITORAMENTO: Chuva deixa pontos de alagamento e rajadas de vento derrubam árvores em Juiz de Fora - G1
+    Localização: -21.7609°, -43.3488°
+    Distância da etapa anterior: 83.2 km
+    Distância acumulada: 3692.3 km
+    Combustível no segmento: 391.9 km
+
+54. 📍 MONITORAMENTO: Temporal transborda córregos, alaga ruas e deixa pessoas ilhadas em Juiz de Fora e Barbacena; veja VÍDEOS e FOTOS - G1
+    Localização: -21.2249°, -43.7762°
+    Distância da etapa anterior: 74.2 km
+    Distância acumulada: 3766.5 km
+    Combustível no segmento: 466.1 km
+
+55. 📍 MONITORAMENTO: Chuva causa transtornos em Volta Redonda - G1
+    Localização: -22.5100°, -44.0935°
+    Distância da etapa anterior: 146.6 km
+    Distância acumulada: 3913.1 km
+    Combustível no segmento: 612.7 km
+
+56. 📍 MONITORAMENTO: Chuva forte provoca enxurradas e alagamentos em Barra Mansa - G1
+    Localização: -22.5453°, -44.1724°
+    Distância da etapa anterior: 9.0 km
+    Distância acumulada: 3922.1 km
+    Combustível no segmento: 621.7 km
+
+57. 📍 MONITORAMENTO: Chuva forte em Rio Claro causa alagamentos em ruas e avenidas - G1
+    Localização: -22.7317°, -44.1394°
+    Distância da etapa anterior: 21.0 km
+    Distância acumulada: 3943.1 km
+    Combustível no segmento: 642.8 km
+
+58. 📍 MONITORAMENTO: Casal é arrastado pela chuva em Itaguaí, na região metropolitana do Rio de Janeiro - R7
+    Localização: -22.8713°, -43.7750°
+    Distância da etapa anterior: 40.4 km
+    Distância acumulada: 3983.6 km
+    Combustível no segmento: 683.2 km
+
+59. 📍 MONITORAMENTO: Mortes em Petrópolis, desabamento em Nilópolis e alagamentos: veja a situação da chuva nas cidades do Rio - O Globo
+    Localização: -22.8075°, -43.4166°
+    Distância da etapa anterior: 37.4 km
+    Distância acumulada: 4021.0 km
+    Combustível no segmento: 720.6 km
+
+60. 📍 MONITORAMENTO: Três cidades da Baixada Fluminense registraram em dois dias a média de chuva de todo o mês de janeiro - G1
+    Localização: -22.8023°, -43.3719°
+    Distância da etapa anterior: 4.6 km
+    Distância acumulada: 4025.6 km
+    Combustível no segmento: 725.2 km
+
+61. 📍 MONITORAMENTO: Chuva alaga ruas do Grande Rio e afeta trens e metrô; acompanhe - G1
+    Localização: -22.8767°, -43.2279°
+    Distância da etapa anterior: 16.9 km
+    Distância acumulada: 4042.5 km
+    Combustível no segmento: 742.1 km
+
+62. ⛽ REABASTECIMENTO: Rio de Janeiro
+    Localização: -22.9068°, -43.1729°
+    Distância da etapa anterior: 6.6 km
+    Distância acumulada: 4049.1 km
+    Combustível no segmento: 748.7 km
+
+63. 📍 MONITORAMENTO: Niterói teve a chuva mais forte desde 2013, diz prefeito à CNN - CNN Brasil
+    Localização: -22.8965°, -43.0758°
+    Distância da etapa anterior: -738.7 km
+    Distância acumulada: 4059.1 km
+    Combustível no segmento: 10.0 km
+
+64. 📍 MONITORAMENTO: Chuvas: São Gonçalo segue com ações preventivas neste sábado - saogoncalo.rj.gov.br
+    Localização: -22.8295°, -43.0323°
+    Distância da etapa anterior: 8.7 km
+    Distância acumulada: 4067.8 km
+    Combustível no segmento: 18.7 km
+
+65. 📍 MONITORAMENTO: Moradores fecham pistas da Rodovia Rio-Magé em protesto por alagamentos ocasionados por chuvas em Caxias - O Globo
+    Localização: -22.6543°, -43.0402°
+    Distância da etapa anterior: 19.5 km
+    Distância acumulada: 4087.3 km
+    Combustível no segmento: 38.2 km
+
+66. 📍 MONITORAMENTO: Alagamento causa interdição na BR-101, em Itaboraí - Enfoco - Enfoco
+    Localização: -22.7459°, -42.8603°
+    Distância da etapa anterior: 21.1 km
+    Distância acumulada: 4108.3 km
+    Combustível no segmento: 59.3 km
+
+67. 📍 MONITORAMENTO: Maricá reduz risco de desastres em eventos climáticos - Prefeitura de Maricá
+    Localização: -22.9170°, -42.8198°
+    Distância da etapa anterior: 19.5 km
+    Distância acumulada: 4127.8 km
+    Combustível no segmento: 78.7 km
+
+68. 📍 MONITORAMENTO: Chuva forte deixa quatro cidades da região alagadas - Folha dos Lagos
+    Localização: -22.8774°, -42.3411°
+    Distância da etapa anterior: 49.2 km
+    Distância acumulada: 4177.0 km
+    Combustível no segmento: 128.0 km
+
+69. 📍 MONITORAMENTO: Defesa Civil de São Pedro da Aldeia está em estado de atenção devido às fortes chuvas - Prefeitura de São Pedro da Aldeia
+    Localização: -22.8372°, -42.1035°
+    Distância da etapa anterior: 24.7 km
+    Distância acumulada: 4201.8 km
+    Combustível no segmento: 152.7 km
+
+70. 📍 MONITORAMENTO: Chuva causa alagamento em alguns pontos de Cabo Frio, no RJ - G1
+    Localização: -22.8808°, -42.0201°
+    Distância da etapa anterior: 9.8 km
+    Distância acumulada: 4211.6 km
+    Combustível no segmento: 162.5 km
+
+71. 📍 MONITORAMENTO: Defesa Civil faz monitoramento de áreas - Rio das Ostras
+    Localização: -22.5239°, -41.9370°
+    Distância da etapa anterior: 40.6 km
+    Distância acumulada: 4252.2 km
+    Combustível no segmento: 203.1 km
+
+72. 📍 MONITORAMENTO: Defesa Civil divulga alerta de chuvas intensas - 03/12/2024 - Prefeitura Municipal de Macaé
+    Localização: -22.3687°, -41.7751°
+    Distância da etapa anterior: 24.0 km
+    Distância acumulada: 4276.2 km
+    Combustível no segmento: 227.1 km
+
+73. 📍 MONITORAMENTO: Chuva deixa desabrigados e afeta estradas e áreas rurais de Nova Friburgo, no RJ - G1
+    Localização: -22.2865°, -42.5328°
+    Distância da etapa anterior: 78.5 km
+    Distância acumulada: 4354.6 km
+    Combustível no segmento: 305.6 km
+
+74. 📍 MONITORAMENTO: Chuva forte causa enchente e estragos em Teresópolis, no RJ - G1
+    Localização: -22.4090°, -42.9630°
+    Distância da etapa anterior: 46.3 km
+    Distância acumulada: 4400.9 km
+    Combustível no segmento: 351.9 km
+
+75. 📍 MONITORAMENTO: Tragédia das chuvas em Petrópolis (RJ) completa dois anos - Brasil de Fato
+    Localização: -22.5106°, -43.1773°
+    Distância da etapa anterior: 24.8 km
+    Distância acumulada: 4425.7 km
+    Combustível no segmento: 376.6 km
+
+76. 📍 MONITORAMENTO: Bairro de Duque de Caxias alaga após água do Rio Iguaçu passar por cima de comportas, diz Inea - G1
+    Localização: -22.7853°, -43.3099°
+    Distância da etapa anterior: 33.4 km
+    Distância acumulada: 4459.1 km
+    Combustível no segmento: 410.0 km
+
+77. 📍 MONITORAMENTO: Em Belford Roxo, moradores tiveram as casas completamente inundadas - Agência Brasil
+    Localização: -22.7646°, -43.3996°
+    Distância da etapa anterior: 9.5 km
+    Distância acumulada: 4468.6 km
+    Combustível no segmento: 419.5 km
+
+78. 📍 MONITORAMENTO: Nova Iguaçu retorna ao estágio de alerta após fortes chuvas de quarta-feira (29) - Prefeitura de Nova Iguaçu
+    Localização: -22.7598°, -43.4503°
+    Distância da etapa anterior: 5.2 km
+    Distância acumulada: 4473.8 km
+    Combustível no segmento: 424.8 km
+
+79. 📍 MONITORAMENTO: Temporal no Rio: Fuzileiros Navais chegam à Queimados para trabalhar no combate aos prejuízos - Extra online
+    Localização: -22.7174°, -43.5557°
+    Distância da etapa anterior: 11.8 km
+    Distância acumulada: 4485.6 km
+    Combustível no segmento: 436.5 km
+
+80. 📍 MONITORAMENTO: Com previsão de chuvas fortes, Defesa Civil coloca Angra dos Reis em estado de observação - G1
+    Localização: -23.0091°, -44.3196°
+    Distância da etapa anterior: 84.7 km
+    Distância acumulada: 4570.3 km
+    Combustível no segmento: 521.3 km
+
+81. 📍 MONITORAMENTO: Chuva causa transtornos em Itatiaia e Resende; veja os impactos na região - G1
+    Localização: -22.4712°, -44.4436°
+    Distância da etapa anterior: 61.2 km
+    Distância acumulada: 4631.5 km
+    Combustível no segmento: 582.4 km
+
+82. ⛽ REABASTECIMENTO: Rio de Janeiro
+    Localização: -22.9068°, -43.1729°
+    Distância da etapa anterior: 139.1 km
+    Distância acumulada: 4770.6 km
+    Combustível no segmento: 721.5 km
+
+83. 📍 MONITORAMENTO: Chuva forte deixa pessoas ilhadas e provoca alagamentos em Guaratinguetá, SP - G1
+    Localização: -22.8174°, -45.1916°
+    Distância da etapa anterior: -514.4 km
+    Distância acumulada: 4977.6 km
+    Combustível no segmento: 207.1 km
+
+84. 📍 MONITORAMENTO: Forte chuva causa transtornos em Taubaté e Pindamonhangaba - Band
+    Localização: -22.9267°, -45.4620°
+    Distância da etapa anterior: 30.3 km
+    Distância acumulada: 5007.9 km
+    Combustível no segmento: 237.3 km
+
+85. 📍 MONITORAMENTO: Chuva com ventos de 65 km/h provoca alagamentos e queda de árvore em Taubaté, SP - G1
+    Localização: -23.0266°, -45.5566°
+    Distância da etapa anterior: 14.7 km
+    Distância acumulada: 5022.6 km
+    Combustível no segmento: 252.1 km
+
+86. 📍 MONITORAMENTO: Chuva causa alagamento, quedas de árvores e deixa carros submersos em São José dos Campos, SP - G1
+    Localização: -23.1841°, -45.8842°
+    Distância da etapa anterior: 37.8 km
+    Distância acumulada: 5060.4 km
+    Combustível no segmento: 289.9 km
+
+87. 📍 MONITORAMENTO: Chuva interdita casa em área de risco e derruba 15 árvores, em Jacareí - G1
+    Localização: -23.3049°, -45.9696°
+    Distância da etapa anterior: 16.0 km
+    Distância acumulada: 5076.5 km
+    Combustível no segmento: 305.9 km
+
+88. 📍 MONITORAMENTO: Chuva derruba árvore e causa pontos de alagamento em Mogi das Cruzes - G1
+    Localização: -23.5227°, -46.1968°
+    Distância da etapa anterior: 33.5 km
+    Distância acumulada: 5110.0 km
+    Combustível no segmento: 339.4 km
+
+89. 📍 MONITORAMENTO: Mogi das Cruzes e Suzano têm alagamentos após forte chuva registrada nesta sexta-feira - G1
+    Localização: -23.5368°, -46.3078°
+    Distância da etapa anterior: 11.4 km
+    Distância acumulada: 5121.4 km
+    Combustível no segmento: 350.8 km
+
+90. 📍 MONITORAMENTO: Poá decreta Situação de Emergência após fortes chuvas registradas no final de semana - Prefeitura Municipal de Poá
+    Localização: -23.5286°, -46.3462°
+    Distância da etapa anterior: 4.0 km
+    Distância acumulada: 5125.4 km
+    Combustível no segmento: 354.9 km
+
+91. 📍 MONITORAMENTO: Ferraz de Vasconcelos (SP) obtém o reconhecimento federal de situação de emergência por causa de fortes chuvas - www.gov.br
+    Localização: -23.5415°, -46.3666°
+    Distância da etapa anterior: 2.5 km
+    Distância acumulada: 5128.0 km
+    Combustível no segmento: 357.4 km
+
+92. 📍 MONITORAMENTO: Chuva provoca alagamento na Vila Maria Augusta, em Itaquaquecetuba - G1
+    Localização: -23.4769°, -46.3516°
+    Distância da etapa anterior: 7.3 km
+    Distância acumulada: 5135.3 km
+    Combustível no segmento: 364.7 km
+
+93. 📍 MONITORAMENTO: Concessionária de carros de luxo fica completamente embaixo d'água em Guarulhos, na Grande SP; funcionários falam em prejuízos milionários - G1
+    Localização: -23.4685°, -46.5311°
+    Distância da etapa anterior: 18.3 km
+    Distância acumulada: 5153.6 km
+    Combustível no segmento: 383.1 km
+
+94. 📍 MONITORAMENTO: Chuvas deixam cidade de SP em estado de atenção para alagamentos - Agência Brasil
+    Localização: -23.5674°, -46.5704°
+    Distância da etapa anterior: 11.7 km
+    Distância acumulada: 5165.3 km
+    Combustível no segmento: 394.8 km
+
+95. 📍 MONITORAMENTO: Chuvas deixam áreas de SP em atenção e metade de São Caetano sem luz - Metrópoles
+    Localização: -23.6147°, -46.5715°
+    Distância da etapa anterior: 5.3 km
+    Distância acumulada: 5170.6 km
+    Combustível no segmento: 400.0 km
+
+96. 📍 MONITORAMENTO: Chuva forte provoca alagamentos e queda de árvore em Diadema | Diário do Grande ABC - Notícias e informações - Diário do Grande ABC
+    Localização: -23.6893°, -46.6234°
+    Distância da etapa anterior: 9.8 km
+    Distância acumulada: 5180.4 km
+    Combustível no segmento: 409.9 km
+
+97. 📍 MONITORAMENTO: VÍDEO: São Bernardo do Campo (SP) tem vários pontos de alagamento e transportes são afetados por causa de chuva forte deste sábado (24) - Diário do Transporte
+    Localização: -23.7103°, -46.5503°
+    Distância da etapa anterior: 7.8 km
+    Distância acumulada: 5188.2 km
+    Combustível no segmento: 417.7 km
+
+98. 📍 MONITORAMENTO: Fortes chuvas causam alagamentos e transtornos em Mauá | Diário do Grande ABC - Notícias e informações - Diário do Grande ABC
+    Localização: -23.6693°, -46.4583°
+    Distância da etapa anterior: 10.4 km
+    Distância acumulada: 5198.6 km
+    Combustível no segmento: 428.1 km
+
+99. 📍 MONITORAMENTO: Após chuva, vias de Ribeirão Pires são liberadas pela Prefeitura e Defesa Civil - Diário do Grande ABC
+    Localização: -23.7074°, -46.4153°
+    Distância da etapa anterior: 6.1 km
+    Distância acumulada: 5204.7 km
+    Combustível no segmento: 434.2 km
+
+100. 📍 MONITORAMENTO: Rio Pilões transborda, sirene é ativada e famílias precisam deixar as casas em Cubatão, SP - G1
+    Localização: -23.8838°, -46.4200°
+    Distância da etapa anterior: 19.6 km
+    Distância acumulada: 5224.4 km
+    Combustível no segmento: 453.8 km
+
+101. 📍 MONITORAMENTO: Chuva de 132 mm deixa Santos, SP, debaixo d'água e morros em estado de atenção no litoral de SP; VÍDEO - G1
+    Localização: -23.9337°, -46.3314°
+    Distância da etapa anterior: 10.6 km
+    Distância acumulada: 5234.9 km
+    Combustível no segmento: 464.4 km
+
+102. 📍 MONITORAMENTO: Vídeo: chuvas causam estragos e deixam desabrigados em Guarujá (SP) - CNN Brasil
+    Localização: -23.9951°, -46.2490°
+    Distância da etapa anterior: 10.8 km
+    Distância acumulada: 5245.7 km
+    Combustível no segmento: 475.2 km
+
+103. 📍 MONITORAMENTO: Praia Grande interdita cerca de 200 casas devido às fortes chuvas que atingiram a cidade - G1
+    Localização: -24.0030°, -46.4121°
+    Distância da etapa anterior: 16.6 km
+    Distância acumulada: 5262.3 km
+    Combustível no segmento: 491.8 km
+
+104. 📍 MONITORAMENTO: Defesa Civil realiza intenso auxílio à população durante chuvas - Prefeitura de Itanhaém
+    Localização: -24.1861°, -46.7910°
+    Distância da etapa anterior: 43.5 km
+    Distância acumulada: 5305.8 km
+    Combustível no segmento: 535.3 km
+
+105. 📍 MONITORAMENTO: Chuva forte causa pontos de alagamento em Itapecerica; veja imagens - G1
+    Localização: -23.7154°, -46.8506°
+    Distância da etapa anterior: 52.7 km
+    Distância acumulada: 5358.5 km
+    Combustível no segmento: 588.0 km
+
+106. 📍 MONITORAMENTO: Taboão da Serra enfrenta alagamentos e destruição devido às chuvas - Gazeta de São Paulo
+    Localização: -23.6233°, -46.7858°
+    Distância da etapa anterior: 12.2 km
+    Distância acumulada: 5370.7 km
+    Combustível no segmento: 600.1 km
+
+107. 📍 MONITORAMENTO: Enxurrada invade creche em Osasco e causa pavor em crianças; vídeo - CNN Brasil
+    Localização: -23.5336°, -46.7888°
+    Distância da etapa anterior: 10.0 km
+    Distância acumulada: 5380.7 km
+    Combustível no segmento: 610.1 km
+
+108. 📍 MONITORAMENTO: Carapicuíba tem mais de 140 milímetros de chuva; homem foi arrastado pela enxurrada - CNN Brasil
+    Localização: -23.5353°, -46.8414°
+    Distância da etapa anterior: 5.4 km
+    Distância acumulada: 5386.1 km
+    Combustível no segmento: 615.5 km
+
+109. 📍 MONITORAMENTO: CIDADE - Chuva provoca áreas de alagamento em várias regiões de Barueri e região | BnR | Compromisso com o leitor - Barueri na Rede
+    Localização: -23.5089°, -46.8747°
+    Distância da etapa anterior: 4.5 km
+    Distância acumulada: 5390.5 km
+    Combustível no segmento: 620.0 km
+
+110. 📍 MONITORAMENTO: Temporal provoca alagamentos e diversas cidades da Grande SP ficam embaixo d’água - G1
+    Localização: -23.5299°, -46.9052°
+    Distância da etapa anterior: 3.9 km
+    Distância acumulada: 5394.4 km
+    Combustível no segmento: 623.9 km
+
+111. 📍 MONITORAMENTO: Depois da chuva: moradores temem futuro após alagamentos em Itapevi - Agência Mural
+    Localização: -23.5469°, -46.9334°
+    Distância da etapa anterior: 3.4 km
+    Distância acumulada: 5397.9 km
+    Combustível no segmento: 627.3 km
+
+112. 📍 MONITORAMENTO: Defesa Civil alerta sobre forte chuva na região até domingo (21/01) - Prefeitura de Cotia
+    Localização: -23.6035°, -46.9318°
+    Distância da etapa anterior: 6.3 km
+    Distância acumulada: 5404.2 km
+    Combustível no segmento: 633.6 km
+
+113. 📍 MONITORAMENTO: Santana de Parnaíba organiza força-tarefa para época de chuvas - Folha de Alphaville
+    Localização: -23.4495°, -46.9221°
+    Distância da etapa anterior: 17.2 km
+    Distância acumulada: 5421.3 km
+    Combustível no segmento: 650.8 km
+
+114. 📍 MONITORAMENTO: Carros são arrastados por enxurrada em Franco da Rocha (SP) - Band
+    Localização: -23.3203°, -46.7279°
+    Distância da etapa anterior: 24.5 km
+    Distância acumulada: 5445.8 km
+    Combustível no segmento: 675.2 km
+
+115. 📍 MONITORAMENTO: Trem descarrila após deslizamento na Linha 7-Rubi; Grande São Paulo registra alagamentos - CBN
+    Localização: -23.2758°, -46.7325°
+    Distância da etapa anterior: 5.0 km
+    Distância acumulada: 5450.8 km
+    Combustível no segmento: 680.2 km
+
+116. 📍 MONITORAMENTO: Cidades da região de Jundiaí registram pontos de alagamento e famílias ficam desalojadas após chuva - G1
+    Localização: -23.2145°, -46.8299°
+    Distância da etapa anterior: 12.1 km
+    Distância acumulada: 5462.8 km
+    Combustível no segmento: 692.3 km
+
+117. 📍 MONITORAMENTO: Temporal causa alagamentos na região de Jundiaí - G1
+    Localização: -23.1877°, -46.8853°
+    Distância da etapa anterior: 6.4 km
+    Distância acumulada: 5469.2 km
+    Combustível no segmento: 698.7 km
+
+118. ⛽ REABASTECIMENTO: São Paulo
+    Localização: -23.5505°, -46.6333°
+    Distância da etapa anterior: 47.8 km
+    Distância acumulada: 5517.1 km
+    Combustível no segmento: 746.5 km
+
+119. 📍 MONITORAMENTO: Chuva faz rio transbordar e derruba árvores em Atibaia, SP - G1
+    Localização: -23.1163°, -46.5551°
+    Distância da etapa anterior: -697.6 km
+    Distância acumulada: 5566.0 km
+    Combustível no segmento: 48.9 km
+
+120. 📍 MONITORAMENTO: Nota Oficial – 21/01/2024 – 10h30 – Fortes chuvas e alagamentos em diversos locais do município de Socorro-SP, na noite de sábado (20/01/2024) - Prefeitura Municipal da Estância de Socorro
+    Localização: -22.9569°, -46.5423°
+    Distância da etapa anterior: 17.8 km
+    Distância acumulada: 5583.8 km
+    Combustível no segmento: 66.7 km
+
+121. 📍 MONITORAMENTO: Chuvas intensas causam alagamentos em diversos pontos de Toledo - Toledo News
+    Localização: -22.7434°, -46.3790°
+    Distância da etapa anterior: 29.0 km
+    Distância acumulada: 5612.8 km
+    Combustível no segmento: 95.8 km
+
+122. 📍 MONITORAMENTO: Defesa Civil dispara novo aviso sonoro em celulares do interior de SP sobre risco de chuvas; veja cidades em alerta - G1
+    Localização: -23.0049°, -46.8376°
+    Distância da etapa anterior: 55.3 km
+    Distância acumulada: 5668.1 km
+    Combustível no segmento: 151.0 km
+
+123. 📍 MONITORAMENTO: Temporal com rajadas de vento causa alagamentos e derruba árvores em Valinhos - G1
+    Localização: -22.9712°, -46.9966°
+    Distância da etapa anterior: 16.7 km
+    Distância acumulada: 5684.8 km
+    Combustível no segmento: 167.7 km
+
+124. 📍 MONITORAMENTO: Campinas monitora 52 áreas de risco de alagamento, nove a mais que último levantamento; veja lista - G1
+    Localização: -22.9073°, -47.0602°
+    Distância da etapa anterior: 9.6 km
+    Distância acumulada: 5694.4 km
+    Combustível no segmento: 177.4 km
+
+125. 📍 MONITORAMENTO: Chuva intensa em Hortolândia causa alagamentos e queda de árvores - Portal Hortolândia
+    Localização: -22.8584°, -47.2211°
+    Distância da etapa anterior: 17.4 km
+    Distância acumulada: 5711.8 km
+    Combustível no segmento: 194.7 km
+
+126. 📍 MONITORAMENTO: Chuva de 106 milímetros deixa ruas de Sumaré debaixo d'água; Defesa Civil monitora áreas - G1
+    Localização: -22.8221°, -47.2658°
+    Distância da etapa anterior: 6.1 km
+    Distância acumulada: 5717.9 km
+    Combustível no segmento: 200.8 km
+
+127. 📍 MONITORAMENTO: Americana registra pontos de alagamentos ao longo desta sexta-feira (8) - Todo Dia
+    Localização: -22.7409°, -47.3304°
+    Distância da etapa anterior: 11.2 km
+    Distância acumulada: 5729.1 km
+    Combustível no segmento: 212.0 km
+
+128. 📍 MONITORAMENTO: Santa Bárbara d’Oeste tem bairros alagados, moradores deixam casas e aulas são suspensas - G1
+    Localização: -22.7554°, -47.4140°
+    Distância da etapa anterior: 8.7 km
+    Distância acumulada: 5737.8 km
+    Combustível no segmento: 220.7 km
+
+129. 📍 MONITORAMENTO: Chuva gera pontos de alagamento, deixa carro ilhado e faz córrego transbordar em Limeira - G1
+    Localização: -22.5622°, -47.4019°
+    Distância da etapa anterior: 21.5 km
+    Distância acumulada: 5759.3 km
+    Combustível no segmento: 242.3 km
+
+130. 📍 MONITORAMENTO: Chuva em Araras causa pontos de alagamentos e queda de 20 árvores em meia hora - G1
+    Localização: -22.3571°, -47.3858°
+    Distância da etapa anterior: 22.9 km
+    Distância acumulada: 5782.2 km
+    Combustível no segmento: 265.1 km
+
+131. 📍 MONITORAMENTO: VÍDEO: rua de Mogi Guaçu fica tomada por água após 15 minutos de chuva, neste domingo - G1
+    Localização: -22.3657°, -46.9445°
+    Distância da etapa anterior: 45.4 km
+    Distância acumulada: 5827.6 km
+    Combustível no segmento: 310.5 km
+
+132. 📍 MONITORAMENTO: Com novo temporal, capital paulista tem alagamentos e falta de luz - Agência Brasil
+    Localização: -22.7599°, -47.1544°
+    Distância da etapa anterior: 48.8 km
+    Distância acumulada: 5876.4 km
+    Combustível no segmento: 359.4 km
+
+133. 📍 MONITORAMENTO: Grupo se une e retira carro 'engolido' por vala em rua alagada de Indaiatuba; VÍDEO - G1
+    Localização: -23.0816°, -47.2123°
+    Distância da etapa anterior: 36.3 km
+    Distância acumulada: 5912.7 km
+    Combustível no segmento: 395.6 km
+
+134. 📍 MONITORAMENTO: Volume do Rio Tietê está cinco vezes acima do considerado normal em Salto; FOTOS - G1
+    Localização: -23.2041°, -47.2924°
+    Distância da etapa anterior: 15.9 km
+    Distância acumulada: 5928.6 km
+    Combustível no segmento: 411.5 km
+
+135. 📍 MONITORAMENTO: Chuva causa queda de muro e pontos de alagamento na região de Sorocaba - G1
+    Localização: -23.2654°, -47.2998°
+    Distância da etapa anterior: 6.9 km
+    Distância acumulada: 5935.5 km
+    Combustível no segmento: 418.4 km
+
+136. 📍 MONITORAMENTO: FOTOS: Chuva causa alagamentos e transtornos em Sorocaba - G1
+    Localização: -23.4993°, -47.4579°
+    Distância da etapa anterior: 30.6 km
+    Distância acumulada: 5966.1 km
+    Combustível no segmento: 449.0 km
+
+137. 📍 MONITORAMENTO: Chuva atinge casas e deixa 12 pessoas desalojadas em Votorantim - G1
+    Localização: -23.5419°, -47.4497°
+    Distância da etapa anterior: 4.8 km
+    Distância acumulada: 5970.9 km
+    Combustível no segmento: 453.8 km
+
+138. 📍 MONITORAMENTO: Chuva causa estragos na região de Itapetininga e mobiliza Defesa Civil - G1
+    Localização: -23.3486°, -47.8495°
+    Distância da etapa anterior: 46.1 km
+    Distância acumulada: 6017.0 km
+    Combustível no segmento: 499.9 km
+
+139. 📍 MONITORAMENTO: Chuva causa estragos em cidades da região de Itapetininga - G1
+    Localização: -23.5879°, -48.0461°
+    Distância da etapa anterior: 33.3 km
+    Distância acumulada: 6050.3 km
+    Combustível no segmento: 533.2 km
+
+140. ⛽ REABASTECIMENTO: São Paulo
+    Localização: -23.5505°, -46.6333°
+    Distância da etapa anterior: 144.1 km
+    Distância acumulada: 6194.3 km
+    Combustível no segmento: 677.3 km
+
+141. 📍 MONITORAMENTO: Fortes chuvas atingem Caraguatatuba com acumulados de 120 mm em menos de seis horas - Prefeitura de Caraguatatuba
+    Localização: -23.6220°, -45.4108°
+    Distância da etapa anterior: -552.4 km
+    Distância acumulada: 6319.2 km
+    Combustível no segmento: 124.8 km
+
+142. 📍 MONITORAMENTO: Chuva causa alagamentos em ruas e casas na véspera de Natal em Pouso Alegre, MG - G1
+    Localização: -22.2303°, -45.9371°
+    Distância da etapa anterior: 163.9 km
+    Distância acumulada: 6483.0 km
+    Combustível no segmento: 288.7 km
+
+143. 📍 MONITORAMENTO: Chuva forte provoca queda de árvores, alagamentos e mobiliza equipes em Poços de Caldas - Prefeitura de Poços de Caldas
+    Localização: -21.7874°, -46.5664°
+    Distância da etapa anterior: 81.5 km
+    Distância acumulada: 6564.5 km
+    Combustível no segmento: 370.2 km
+
+144. 📍 MONITORAMENTO: Chuva com ventos e granizo alaga ruas e causa queda de árvores em Varginha, MG - G1
+    Localização: -21.5571°, -45.4319°
+    Distância da etapa anterior: 120.0 km
+    Distância acumulada: 6684.5 km
+    Combustível no segmento: 490.2 km
+
+145. 📍 MONITORAMENTO: Chuva causa alagamentos e deixa pelo menos 30 pessoas desalojadas em Lavras, MG - G1
+    Localização: -21.2429°, -44.9999°
+    Distância da etapa anterior: 56.7 km
+    Distância acumulada: 6741.2 km
+    Combustível no segmento: 546.9 km
+
+146. ⛽ REABASTECIMENTO: Belo Horizonte
+    Localização: -19.9167°, -43.9333°
+    Distância da etapa anterior: 184.6 km
+    Distância acumulada: 6925.8 km
+    Combustível no segmento: 731.5 km
+
+147. 📍 MONITORAMENTO: MG: forte chuva causa alagamento e congestionamento na BR-040 - Estado de Minas
+    Localização: -20.6609°, -43.7884°
+    Distância da etapa anterior: -647.4 km
+    Distância acumulada: 7010.0 km
+    Combustível no segmento: 84.1 km
+
+148. 📍 MONITORAMENTO: Balanço da Defesa Civil de Campos registra 50 pontos de alagamento em 30 bairros com as últimas chuvas - G1
+    Localização: -21.7519°, -41.3305°
+    Distância da etapa anterior: 282.2 km
+    Distância acumulada: 7292.2 km
+    Combustível no segmento: 366.3 km
+
+149. ⛽ REABASTECIMENTO: Vitória
+    Localização: -20.3194°, -40.3378°
+    Distância da etapa anterior: 189.7 km
+    Distância acumulada: 7481.9 km
+    Combustível no segmento: 556.0 km
+
+150. 📍 MONITORAMENTO: Moradores perdem tudo durante enchente em bairro São Mateus: 'desespero total' :: Notícias de MT - Olhar Direto
+    Localização: -18.7184°, -39.8582°
+    Distância da etapa anterior: -371.0 km
+    Distância acumulada: 7666.8 km
+    Combustível no segmento: 185.0 km
+
+151. 📍 MONITORAMENTO: Chuva alaga cidades da Bahia; Salvador tem alerta de perigo - UOL Notícias
+    Localização: -17.5377°, -39.7445°
+    Distância da etapa anterior: 131.8 km
+    Distância acumulada: 7798.7 km
+    Combustível no segmento: 316.8 km
+
+152. ⛽ REABASTECIMENTO: Vitória
+    Localização: -20.3194°, -40.3378°
+    Distância da etapa anterior: 315.5 km
+    Distância acumulada: 8114.2 km
+    Combustível no segmento: 632.4 km
+
+153. 📍 MONITORAMENTO: Fortes chuvas voltam a causar estragos em vários bairros de Teófilo Otoni - Diário Tribuna
+    Localização: -17.8625°, -41.5096°
+    Distância da etapa anterior: -332.7 km
+    Distância acumulada: 8413.9 km
+    Combustível no segmento: 299.7 km
+
+154. ⛽ REABASTECIMENTO: Belo Horizonte
+    Localização: -19.9167°, -43.9333°
+    Distância da etapa anterior: 342.3 km
+    Distância acumulada: 8756.2 km
+    Combustível no segmento: 642.0 km
+
+155. 📍 MONITORAMENTO: VÍDEO: Chuva transborda córrego e deixa parte da Avenida da Moda debaixo d'água em Passos, MG - G1
+    Localização: -20.7192°, -46.6114°
+    Distância da etapa anterior: -348.8 km
+    Distância acumulada: 9049.4 km
+    Combustível no segmento: 293.2 km
+
+156. 📍 MONITORAMENTO: Ruas e avenidas têm alagamentos e 'corredeiras' durante forte chuva em Ribeirão Preto; veja locais atingidos - G1
+    Localização: -21.1848°, -47.8055°
+    Distância da etapa anterior: 134.4 km
+    Distância acumulada: 9183.7 km
+    Combustível no segmento: 427.5 km
+
+157. 📍 MONITORAMENTO: VÍDEOS: chuva forte em São Carlos arrasta 12 carros e alaga Praça do Mercado e rotatória do Cristo - G1
+    Localização: -22.0160°, -47.8892°
+    Distância da etapa anterior: 92.8 km
+    Distância acumulada: 9276.5 km
+    Combustível no segmento: 520.4 km
+
+158. 📍 MONITORAMENTO: VÍDEO: chuva causa alagamentos de vias em Piracicaba - G1
+    Localização: -22.7237°, -47.6468°
+    Distância da etapa anterior: 82.5 km
+    Distância acumulada: 9359.1 km
+    Combustível no segmento: 602.9 km
+
+159. ⛽ REABASTECIMENTO: São Paulo
+    Localização: -23.5505°, -46.6333°
+    Distância da etapa anterior: 138.5 km
+    Distância acumulada: 9497.6 km
+    Combustível no segmento: 741.4 km
+
+160. 📍 MONITORAMENTO: Chuva com ventos fortes e granizo provoca alagamentos e quedas de árvores em Botucatu - G1
+    Localização: -22.8884°, -48.4413°
+    Distância da etapa anterior: -542.6 km
+    Distância acumulada: 9696.5 km
+    Combustível no segmento: 198.9 km
+
+161. 📍 MONITORAMENTO: Chuva causa rompimento de duto em estacionamento de supermercado e alagamentos em Jaú; vídeo - G1
+    Localização: -22.2958°, -48.5581°
+    Distância da etapa anterior: 67.0 km
+    Distância acumulada: 9763.5 km
+    Combustível no segmento: 265.9 km
+
+162. 📍 MONITORAMENTO: Chuva forte provoca alagamentos e transtornos em Bauru - G1
+    Localização: -22.3251°, -49.0830°
+    Distância da etapa anterior: 54.1 km
+    Distância acumulada: 9817.6 km
+    Combustível no segmento: 319.9 km
+
+163. 📍 MONITORAMENTO: Chuva e ventos de mais de 120 km/h derrubam árvores e placas de marquise de shopping em Ourinhos - G1
+    Localização: -22.9773°, -49.8686°
+    Distância da etapa anterior: 108.4 km
+    Distância acumulada: 9926.0 km
+    Combustível no segmento: 428.4 km
+
+164. 📍 MONITORAMENTO: Prefeito dá início a obra metropolitana para reduzir alagamentos em Curitiba, Pinhais e Colombo - Prefeitura de Curitiba
+    Localização: -25.2943°, -49.2274°
+    Distância da etapa anterior: 265.7 km
+    Distância acumulada: 10191.7 km
+    Combustível no segmento: 694.1 km
+
+165. 📍 MONITORAMENTO: Centro de Almirante Tamandaré alaga após forte temporal e rua vira “rio” - RIC.com.br
+    Localização: -25.3134°, -49.3003°
+    Distância da etapa anterior: 7.6 km
+    Distância acumulada: 10199.4 km
+    Combustível no segmento: 701.7 km
+
+166. 📍 MONITORAMENTO: VÍDEO: Terminal de ônibus fica alagado após forte chuva em Curitiba - G1
+    Localização: -25.4330°, -49.2718°
+    Distância da etapa anterior: 13.6 km
+    Distância acumulada: 10213.0 km
+    Combustível no segmento: 715.3 km
+
+167. 📍 MONITORAMENTO: São José dos Pinhais tem 80 pessoas em abrigos após alagamentos - Band
+    Localização: -25.4422°, -49.1992°
+    Distância da etapa anterior: 7.4 km
+    Distância acumulada: 10220.3 km
+    Combustível no segmento: 722.7 km
+
+168. 📍 MONITORAMENTO: São José dos Pinhais tem 80 pessoas em abrigos após alagamentos - Band
+    Localização: -25.5377°, -49.2001°
+    Distância da etapa anterior: 10.6 km
+    Distância acumulada: 10231.0 km
+    Combustível no segmento: 733.3 km
+
+169. ⛽ REABASTECIMENTO: Curitiba
+    Localização: -25.4297°, -49.2711°
+    Distância da etapa anterior: 14.0 km
+    Distância acumulada: 10244.9 km
+    Combustível no segmento: 747.3 km
+
+170. 📍 MONITORAMENTO: Curitiba tem alagamentos após chuva de 60 milímetros - Band
+    Localização: -25.4465°, -49.0653°
+    Distância da etapa anterior: -726.5 km
+    Distância acumulada: 10265.7 km
+    Combustível no segmento: 20.8 km
+
+171. 📍 MONITORAMENTO: Forte chuva causa alagamentos em Curitiba e na Região Metropolitana - CBN Curitiba
+    Localização: -25.6414°, -49.3233°
+    Distância da etapa anterior: 33.8 km
+    Distância acumulada: 10299.4 km
+    Combustível no segmento: 54.5 km
+
+172. 📍 MONITORAMENTO: Araucária possui muitas áreas que são propensas a inundações - O Popular do Paraná
+    Localização: -25.5916°, -49.4019°
+    Distância da etapa anterior: 9.6 km
+    Distância acumulada: 10309.1 km
+    Combustível no segmento: 64.1 km
+
+173. 📍 MONITORAMENTO: CHUVAS CAUSAM ESTRAGOS EM CAMPO LARGO E DEFESA CIVIL PEDE ALERTA - Campo Largo
+    Localização: -25.4595°, -49.5288°
+    Distância da etapa anterior: 19.4 km
+    Distância acumulada: 10328.5 km
+    Combustível no segmento: 83.6 km
+
+174. 📍 MONITORAMENTO: Grande volume de chuva causa alagamentos em Ponta Grossa - aRede - aRede
+    Localização: -25.0925°, -50.1614°
+    Distância da etapa anterior: 75.6 km
+    Distância acumulada: 10404.1 km
+    Combustível no segmento: 159.2 km
+
+175. 📍 MONITORAMENTO: Ponte, ruas e rodovias: chuva alaga cidades do interior e litoral do Paraná; veja vídeos - G1
+    Localização: -25.3936°, -51.4634°
+    Distância da etapa anterior: 135.2 km
+    Distância acumulada: 10539.2 km
+    Combustível no segmento: 294.3 km
+
+176. 📍 MONITORAMENTO: Chuvas em SC: Jaraguá do Sul supera 140 mm em 24 horas, ultrapassando a média esperada para o mês - Conheça Santa Catarina
+    Localização: -26.4905°, -49.0763°
+    Distância da etapa anterior: 268.0 km
+    Distância acumulada: 10807.3 km
+    Combustível no segmento: 562.4 km
+
+177. 📍 MONITORAMENTO: Defesa Civil de Joinville registra pontos de alagamento em ruas da região Sul - Prefeitura de Joinville
+    Localização: -26.3045°, -48.8494°
+    Distância da etapa anterior: 30.6 km
+    Distância acumulada: 10837.9 km
+    Combustível no segmento: 593.0 km
+
+178. 📍 MONITORAMENTO: Chuvas levam quatro cidades a decretar emergência em Santa Catarina - Agência Brasil
+    Localização: -26.9074°, -48.6570°
+    Distância da etapa anterior: 69.7 km
+    Distância acumulada: 10907.6 km
+    Combustível no segmento: 662.7 km
+
+179. 📍 MONITORAMENTO: Veja imagens dos alagamentos em Balneário Camboriú - CNN Brasil
+    Localização: -26.9918°, -48.6346°
+    Distância da etapa anterior: 9.6 km
+    Distância acumulada: 10917.3 km
+    Combustível no segmento: 672.3 km
+
+180. 📍 MONITORAMENTO: Chuva causa alagamentos, interdições de vias e deixa veículos submersos em cidades do litoral de SC; VÍDEOS - G1
+    Localização: -27.0265°, -48.6500°
+    Distância da etapa anterior: 4.1 km
+    Distância acumulada: 10921.4 km
+    Combustível no segmento: 676.5 km
+
+181. 📍 MONITORAMENTO: Defesa Civil de São José mobilizada para chuvas nesta quinta (16) - Prefeitura Municipal De São José
+    Localização: -27.5903°, -48.6160°
+    Distância da etapa anterior: 62.8 km
+    Distância acumulada: 10984.2 km
+    Combustível no segmento: 739.3 km
+
+182. 📍 MONITORAMENTO: Chuva intensa provoca deslizamentos e alagamentos na Grande Florianópolis e Extremo Oeste - Secretaria de Estado da Proteção e Defesa Civil
+    Localização: -27.5878°, -48.5476°
+    Distância da etapa anterior: 6.7 km
+    Distância acumulada: 10990.9 km
+    Combustível no segmento: 746.0 km
+
+183. ⛽ REABASTECIMENTO: Florianópolis
+    Localização: -27.5935°, -48.5585°
+    Distância da etapa anterior: 1.2 km
+    Distância acumulada: 10992.2 km
+    Combustível no segmento: 747.3 km
+
+184. 📍 MONITORAMENTO: Cidade de SC tem alagamentos após registrar, em uma hora, chuva esperada para todo o mês de janeiro - G1
+    Localização: -27.6470°, -48.6703°
+    Distância da etapa anterior: -734.7 km
+    Distância acumulada: 11004.7 km
+    Combustível no segmento: 12.5 km
+
+185. 📍 MONITORAMENTO: Brusque registra 12 cheias em seis meses; veja histórico - SCC10
+    Localização: -27.0983°, -48.9152°
+    Distância da etapa anterior: 65.6 km
+    Distância acumulada: 11070.3 km
+    Combustível no segmento: 78.2 km
+
+186. 📍 MONITORAMENTO: Veja como Blumenau saiu da maior enchente da história de SC para um exemplo na Defesa Civil - Folha do Mate
+    Localização: -26.9161°, -49.0576°
+    Distância da etapa anterior: 24.7 km
+    Distância acumulada: 11095.0 km
+    Combustível no segmento: 102.8 km
+
+187. 📍 MONITORAMENTO: Chuva intensa causa alagamentos e deslizamentos em Lages - NSC Total
+    Localização: -27.8173°, -50.3302°
+    Distância da etapa anterior: 160.7 km
+    Distância acumulada: 11255.8 km
+    Combustível no segmento: 263.6 km
+
+188. 📍 MONITORAMENTO: Chuva intensa provoca alagamentos em Criciúma; confira fotos - Portal Engeplus
+    Localização: -28.6736°, -49.3659°
+    Distância da etapa anterior: 134.1 km
+    Distância acumulada: 11389.9 km
+    Combustível no segmento: 397.7 km
+
+189. 📍 MONITORAMENTO: Fotos históricas resgatam a maior enchente registrada no Sul Catarinense - NSC Total
+    Localização: -28.4800°, -49.0053°
+    Distância da etapa anterior: 41.3 km
+    Distância acumulada: 11431.1 km
+    Combustível no segmento: 439.0 km
+
+190. 📍 MONITORAMENTO: Chuva eleva rio dos Sinos e coloca São Leopoldo, Novo Hamburgo e Campo Bom em alerta - Brasil de Fato
+    Localização: -29.6863°, -51.1286°
+    Distância da etapa anterior: 246.1 km
+    Distância acumulada: 11677.2 km
+    Combustível no segmento: 685.1 km
+
+191. 📍 MONITORAMENTO: Enchente em São Leopoldo (RS) não foi provocada por rompimento de barragem - Estadão
+    Localização: -29.7659°, -51.1462°
+    Distância da etapa anterior: 9.0 km
+    Distância acumulada: 11686.2 km
+    Combustível no segmento: 694.1 km
+
+192. 📍 MONITORAMENTO: Enchentes no RS: “abandono total“, relata moradora de Sapucaia do Sul - CNN Brasil
+    Localização: -29.8249°, -51.1519°
+    Distância da etapa anterior: 6.6 km
+    Distância acumulada: 11692.8 km
+    Combustível no segmento: 700.6 km
+
+193. 📍 MONITORAMENTO: VÍDEO: imagens aéreas mostram Canoas inundada durante enchente no RS; mais de 180 mil pessoas foram atingidas, diz prefeitura - G1
+    Localização: -29.9187°, -51.1810°
+    Distância da etapa anterior: 10.8 km
+    Distância acumulada: 11703.6 km
+    Combustível no segmento: 711.4 km
+
+194. 📍 MONITORAMENTO: Chuvas e alagamentos voltam a preocupar moradores de Porto Alegre - Agência Brasil
+    Localização: -30.0300°, -51.2287°
+    Distância da etapa anterior: 13.2 km
+    Distância acumulada: 11716.8 km
+    Combustível no segmento: 724.7 km
+
+195. ⛽ REABASTECIMENTO: Porto Alegre
+    Localização: -30.0331°, -51.2300°
+    Distância da etapa anterior: 0.4 km
+    Distância acumulada: 11717.2 km
+    Combustível no segmento: 725.0 km
+
+196. 📍 MONITORAMENTO: Moradores de Itapuã, em Viamão, sofrem com cheia do Guaíba; 43 pessoas estão abrigadas em escola - GZH
+    Localização: -30.0819°, -51.0248°
+    Distância da etapa anterior: -704.5 km
+    Distância acumulada: 11737.7 km
+    Combustível no segmento: 20.5 km
+
+197. 📍 MONITORAMENTO: Gravataí: enchentes de maio tiveram impacto menor que cheias de 2023 - Terra
+    Localização: -29.9455°, -50.9908°
+    Distância da etapa anterior: 15.5 km
+    Distância acumulada: 11753.2 km
+    Combustível no segmento: 36.0 km
+
+198. 📍 MONITORAMENTO: Moradores de Caxias do Sul relatam tremor de terra e Bombeiros orientam evacuação - CNN Brasil
+    Localização: -29.1669°, -51.1789°
+    Distância da etapa anterior: 88.5 km
+    Distância acumulada: 11841.7 km
+    Combustível no segmento: 124.5 km
+
+199. 📍 MONITORAMENTO: Onda de 2 metros de altura atingiu região de Bento Gonçalves, diz prefeito - UOL Notícias
+    Localização: -29.1674°, -51.5156°
+    Distância da etapa anterior: 32.7 km
+    Distância acumulada: 11874.4 km
+    Combustível no segmento: 157.2 km
+
+200. 📍 MONITORAMENTO: Moradores de Santa Cruz do Sul são surpreendidos em enchente inédita: “a água nunca chegou até aqui” - Correio do Povo
+    Localização: -29.7198°, -52.4299°
+    Distância da etapa anterior: 107.8 km
+    Distância acumulada: 11982.1 km
+    Combustível no segmento: 264.9 km
+
+201. 📍 MONITORAMENTO: Com o elevado volume dos rios, Passo Fundo segue em alerta para as chuvas - pmpf.rs.gov.br
+    Localização: -28.2618°, -52.4071°
+    Distância da etapa anterior: 162.1 km
+    Distância acumulada: 12144.3 km
+    Combustível no segmento: 427.1 km
+
+202. ⛽ REABASTECIMENTO: Porto Alegre
+    Localização: -30.0331°, -51.2300°
+    Distância da etapa anterior: 227.7 km
+    Distância acumulada: 12372.0 km
+    Combustível no segmento: 654.8 km
+
+203. 📍 MONITORAMENTO: Enchentes no RS: canal atinge nível recorde de 3 metros em Pelotas - CNN Brasil
+    Localização: -31.7196°, -52.3443°
+    Distância da etapa anterior: -439.2 km
+    Distância acumulada: 12587.6 km
+    Combustível no segmento: 215.6 km
+
+204. 📍 MONITORAMENTO: Um mês de enchentes no RS: veja cronologia do desastre que atingiu 471 cidades, matou mais de 170 pessoas e expulsou 600 mil de casa | Rio Grande do Sul - G1
+    Localização: -32.0504°, -52.0868°
+    Distância da etapa anterior: 44.1 km
+    Distância acumulada: 12631.7 km
+    Combustível no segmento: 259.7 km
+
+205. ⛽ REABASTECIMENTO: Porto Alegre
+    Localização: -30.0331°, -51.2300°
+    Distância da etapa anterior: 238.7 km
+    Distância acumulada: 12870.4 km
+    Combustível no segmento: 498.4 km
+
+206. 📍 MONITORAMENTO: Prefeitura de Erechim trabalha para recuperar estradas, pontes, pontilhões e bueiros - Jornal Bom Dia
+    Localização: -27.6334°, -52.2759°
+    Distância da etapa anterior: -212.8 km
+    Distância acumulada: 13156.0 km
+    Combustível no segmento: 285.6 km
+
+207. 📍 MONITORAMENTO: VÍDEO: Chuva causa alagamentos e carros ficam ilhados em Chapecó - ND Mais
+    Localização: -27.1068°, -52.6170°
+    Distância da etapa anterior: 67.6 km
+    Distância acumulada: 13223.5 km
+    Combustível no segmento: 353.2 km
+
+208. ⛽ REABASTECIMENTO: Porto Alegre
+    Localização: -30.0331°, -51.2300°
+    Distância da etapa anterior: 352.4 km
+    Distância acumulada: 13576.0 km
+    Combustível no segmento: 705.6 km
+
+209. 📍 MONITORAMENTO: Vinte e oito cidades gaúchas têm risco muito alto de inundação - G1
+    Localização: -31.3305°, -54.1071°
+    Distância da etapa anterior: -395.0 km
+    Distância acumulada: 13886.6 km
+    Combustível no segmento: 310.6 km
+
+210. ⛽ REABASTECIMENTO: Porto Alegre
+    Localização: -30.0331°, -51.2300°
+    Distância da etapa anterior: 310.6 km
+    Distância acumulada: 14197.3 km
+    Combustível no segmento: 621.3 km
+
+211. 📍 MONITORAMENTO: Temporal no litoral do PR deixa cidade histórica debaixo d´água - Tribuna do Paraná
+    Localização: -25.5068°, -48.5247°
+    Distância da etapa anterior: -52.0 km
+    Distância acumulada: 14766.5 km
+    Combustível no segmento: 569.3 km
+
+212. ⛽ REABASTECIMENTO: Curitiba
+    Localização: -25.4297°, -49.2711°
+    Distância da etapa anterior: 75.4 km
+    Distância acumulada: 14842.0 km
+    Combustível no segmento: 644.7 km
+
+213. 📍 MONITORAMENTO: VÍDEO: Homem é flagrado andando de caiaque no meio da cidade após chuva alagar Londrina - G1
+    Localização: -23.3122°, -51.1628°
+    Distância da etapa anterior: -341.1 km
+    Distância acumulada: 15145.5 km
+    Combustível no segmento: 303.6 km
+
+214. 📍 MONITORAMENTO: Chuva causa estragos, alagamentos e interdições no norte do Paraná; veja como fica o tempo nos próximos dias - G1
+    Localização: -23.2816°, -51.2777°
+    Distância da etapa anterior: 12.2 km
+    Distância acumulada: 15157.7 km
+    Combustível no segmento: 315.8 km
+
+215. 📍 MONITORAMENTO: Chuva causa estragos, alagamentos e interdições no norte do Paraná; veja como fica o tempo nos próximos dias - G1
+    Localização: -23.4135°, -51.4383°
+    Distância da etapa anterior: 22.0 km
+    Distância acumulada: 15179.7 km
+    Combustível no segmento: 337.8 km
+
+216. 📍 MONITORAMENTO: Prefeitura de Apucarana realiza limpeza em escolas após fortes chuvas - Prefeitura de Apucarana
+    Localização: -23.5516°, -51.4600°
+    Distância da etapa anterior: 15.5 km
+    Distância acumulada: 15195.2 km
+    Combustível no segmento: 353.3 km
+
+217. 📍 MONITORAMENTO: Alagado há um mês, Sarandi revive trauma: 'Foram três prefeitos que nem olharam para o bairro' - Sul 21
+    Localização: -23.4432°, -51.8737°
+    Distância da etapa anterior: 43.9 km
+    Distância acumulada: 15239.1 km
+    Combustível no segmento: 397.2 km
+
+218. ⛽ REABASTECIMENTO: Curitiba
+    Localização: -25.4297°, -49.2711°
+    Distância da etapa anterior: 343.8 km
+    Distância acumulada: 15582.9 km
+    Combustível no segmento: 741.0 km
+
+219. 📍 MONITORAMENTO: Vídeos mostram enxurrada arrastando carros durante forte chuva em Assis - G1
+    Localização: -22.6628°, -50.4175°
+    Distância da etapa anterior: -412.0 km
+    Distância acumulada: 15911.9 km
+    Combustível no segmento: 328.9 km
+
+220. ⛽ REABASTECIMENTO: Curitiba
+    Localização: -25.4297°, -49.2711°
+    Distância da etapa anterior: 328.9 km
+    Distância acumulada: 16240.8 km
+    Combustível no segmento: 657.9 km
+
+221. 📍 MONITORAMENTO: “Araraquara sofreu uma enchente dura e essa obra vai resolver os problemas, além de dar à cidade um novo parque”, destacou Renan Filho - www.gov.br
+    Localização: -21.7904°, -48.1744°
+    Distância da etapa anterior: -238.1 km
+    Distância acumulada: 16660.6 km
+    Combustível no segmento: 419.8 km
+
+222. ⛽ REABASTECIMENTO: São Paulo
+    Localização: -23.5505°, -46.6333°
+    Distância da etapa anterior: 251.6 km
+    Distância acumulada: 16912.2 km
+    Combustível no segmento: 671.4 km
+
+223. 📍 MONITORAMENTO: Sem escoamento adequado, Franca sofre com enchentes há mais de 10 anos - G1
+    Localização: -20.5361°, -47.4023°
+    Distância da etapa anterior: -327.0 km
+    Distância acumulada: 17256.7 km
+    Combustível no segmento: 344.4 km
+
+224. ⛽ REABASTECIMENTO: São Paulo
+    Localização: -23.5505°, -46.6333°
+    Distância da etapa anterior: 344.4 km
+    Distância acumulada: 17601.1 km
+    Combustível no segmento: 688.9 km
+
+225. 📍 MONITORAMENTO: TEM Notícias 2ª Edição – Rio Preto/Araçatuba | Chuva provoca alagamentos e interdição de zoológico em Catanduva - Globoplay
+    Localização: -21.1395°, -48.9759°
+    Distância da etapa anterior: -328.4 km
+    Distância acumulada: 17961.5 km
+    Combustível no segmento: 360.4 km
+
+226. ⛽ REABASTECIMENTO: São Paulo
+    Localização: -23.5505°, -46.6333°
+    Distância da etapa anterior: 360.4 km
+    Distância acumulada: 18321.9 km
+    Combustível no segmento: 720.8 km
+
+227. 📍 MONITORAMENTO: Chuvas fortes causam transtornos e alagamentos em cidades do interior de SP - G1
+    Localização: -22.2149°, -49.9516°
+    Distância da etapa anterior: -349.9 km
+    Distância acumulada: 18692.9 km
+    Combustível no segmento: 371.0 km
+
+228. ⛽ REABASTECIMENTO: Curitiba
+    Localização: -25.4297°, -49.2711°
+    Distância da etapa anterior: 364.1 km
+    Distância acumulada: 19057.0 km
+    Combustível no segmento: 735.1 km
+
+229. 📍 MONITORAMENTO: Chuva causa estragos, alagamentos e interdições no norte do Paraná; veja como fica o tempo nos próximos dias - G1
+    Localização: -23.4223°, -51.9399°
+    Distância da etapa anterior: -384.6 km
+    Distância acumulada: 19407.4 km
+    Combustível no segmento: 350.5 km
+
+230. ⛽ REABASTECIMENTO: Curitiba
+    Localização: -25.4297°, -49.2711°
+    Distância da etapa anterior: 350.5 km
+    Distância acumulada: 19757.9 km
+    Combustível no segmento: 700.9 km
+
+231. ⛽ REABASTECIMENTO: São Paulo
+    Localização: -23.5505°, -46.6333°
+    Distância da etapa anterior: 339.0 km
+    Distância acumulada: 20096.9 km
+    Combustível no segmento: 339.0 km
+
+232. ⛽ REABASTECIMENTO: Belo Horizonte
+    Localização: -19.9167°, -43.9333°
+    Distância da etapa anterior: 490.9 km
+    Distância acumulada: 20587.8 km
+    Combustível no segmento: 490.9 km
+
+233. 📍 MONITORAMENTO: Chuvas provocam pontos de alagamento em Araxá neste domingo (18) - Portal Imbiara
+    Localização: -19.5913°, -46.9400°
+    Distância da etapa anterior: -174.2 km
+    Distância acumulada: 20904.5 km
+    Combustível no segmento: 316.7 km
+
+234. ⛽ REABASTECIMENTO: Belo Horizonte
+    Localização: -19.9167°, -43.9333°
+    Distância da etapa anterior: 316.7 km
+    Distância acumulada: 21221.2 km
+    Combustível no segmento: 633.4 km
+
+235. 📍 MONITORAMENTO: Temporal causa alagamentos e deixa pessoas ilhadas em Montes Claros - G1
+    Localização: -16.7227°, -43.8654°
+    Distância da etapa anterior: -278.2 km
+    Distância acumulada: 21576.4 km
+    Combustível no segmento: 355.2 km
+
+236. ⛽ REABASTECIMENTO: Belo Horizonte
+    Localização: -19.9167°, -43.9333°
+    Distância da etapa anterior: 355.2 km
+    Distância acumulada: 21931.7 km
+    Combustível no segmento: 710.4 km
+
+237. ⛽ REABASTECIMENTO: Brasília
+    Localização: -15.7939°, -47.8828°
+    Distância da etapa anterior: 620.3 km
+    Distância acumulada: 22552.0 km
+    Combustível no segmento: 620.3 km
+
+238. 📍 MONITORAMENTO: População de Alvorada convive com ruas alagadas, lixo e esgoto dois meses após enchente - G1
+    Localização: -12.4788°, -49.1268°
+    Distância da etapa anterior: -228.0 km
+    Distância acumulada: 22944.2 km
+    Combustível no segmento: 392.3 km
+
+239. 📍 MONITORAMENTO: Chuva deixa avenidas e rotatórias de Palmas alagadas; veja previsão para esta quarta (3) - G1
+    Localização: -10.1633°, -48.3510°
+    Distância da etapa anterior: 271.0 km
+    Distância acumulada: 23215.3 km
+    Combustível no segmento: 663.3 km
+
+240. ⛽ REABASTECIMENTO: Palmas
+    Localização: -10.1675°, -48.3319°
+    Distância da etapa anterior: 2.1 km
+    Distância acumulada: 23217.4 km
+    Combustível no segmento: 665.4 km
+
+241. 📍 MONITORAMENTO: Idosos e crianças são resgatados de pontos de alagamento após chuva deixar Araguaína debaixo d'água; VÍDEO - G1
+    Localização: -7.1913°, -48.2087°
+    Distância da etapa anterior: -334.2 km
+    Distância acumulada: 23548.6 km
+    Combustível no segmento: 331.2 km
+
+242. ⛽ REABASTECIMENTO: Palmas
+    Localização: -10.1675°, -48.3319°
+    Distância da etapa anterior: 331.2 km
+    Distância acumulada: 23879.8 km
+    Combustível no segmento: 662.4 km
+
+243. 📍 MONITORAMENTO: Carros são arrastados pela água e famílias ficam desalojadas após fortes chuvas em cidade da Bahia - G1
+    Localização: -12.0784°, -45.8005°
+    Distância da etapa anterior: -313.9 km
+    Distância acumulada: 24228.3 km
+    Combustível no segmento: 348.5 km
+
+244. ⛽ REABASTECIMENTO: Palmas
+    Localização: -10.1675°, -48.3319°
+    Distância da etapa anterior: 348.5 km
+    Distância acumulada: 24576.7 km
+    Combustível no segmento: 696.9 km
+
+245. ⛽ REABASTECIMENTO: Goiânia
+    Localização: -16.6667°, -49.2500°
+    Distância da etapa anterior: 729.5 km
+    Distância acumulada: 25306.2 km
+    Combustível no segmento: 729.5 km
+
+246. 📍 MONITORAMENTO: Chuva causa alagamentos e deixa pessoas e animais ilhados em Uberaba - G1
+    Localização: -19.7135°, -47.9836°
+    Distância da etapa anterior: -365.2 km
+    Distância acumulada: 25670.4 km
+    Combustível no segmento: 364.2 km
+
+247. ⛽ REABASTECIMENTO: Goiânia
+    Localização: -16.6667°, -49.2500°
+    Distância da etapa anterior: 364.2 km
+    Distância acumulada: 26034.7 km
+    Combustível no segmento: 728.5 km
+
+248. 📍 MONITORAMENTO: VÍDEO: chuva forte derruba árvore e causa alagamento em avenidas de Cuiabá - G1
+    Localização: -15.5700°, -56.0733°
+    Distância da etapa anterior: 10.5 km
+    Distância acumulada: 26773.7 km
+    Combustível no segmento: 739.0 km
+
+249. ⛽ REABASTECIMENTO: Cuiabá
+    Localização: -15.5989°, -56.0949°
+    Distância da etapa anterior: 4.0 km
+    Distância acumulada: 26777.6 km
+    Combustível no segmento: 742.9 km
+
+250. 📍 MONITORAMENTO: Efeitos das chuvas levam município a decretar situação de emergência - rondonopolis.mt.gov.br
+    Localização: -16.4702°, -54.6336°
+    Distância da etapa anterior: -559.2 km
+    Distância acumulada: 26961.4 km
+    Combustível no segmento: 183.8 km
+
+251. 📍 MONITORAMENTO: Temporal derruba telhado e assusta moradores em Tangará da Serra (MT); veja vídeos - G1
+    Localização: -14.6238°, -57.4913°
+    Distância da etapa anterior: 368.6 km
+    Distância acumulada: 27330.0 km
+    Combustível no segmento: 552.4 km
+
+252. ⛽ REABASTECIMENTO: Cuiabá
+    Localização: -15.5989°, -56.0949°
+    Distância da etapa anterior: 185.0 km
+    Distância acumulada: 27515.0 km
+    Combustível no segmento: 737.4 km
+
+253. 📍 MONITORAMENTO: VÍDEO: chuva forte deixa ruas e avenidas alagadas em Sorriso (MT) - G1
+    Localização: -12.5518°, -55.7259°
+    Distância da etapa anterior: -396.2 km
+    Distância acumulada: 27856.2 km
+    Combustível no segmento: 341.2 km
+
+254. ⛽ REABASTECIMENTO: Cuiabá
+    Localização: -15.5989°, -56.0949°
+    Distância da etapa anterior: 341.2 km
+    Distância acumulada: 28197.3 km
+    Combustível no segmento: 682.3 km
+
+255. ⛽ REABASTECIMENTO: Campo Grande
+    Localização: -20.4428°, -54.6464°
+    Distância da etapa anterior: 560.0 km
+    Distância acumulada: 28757.3 km
+    Combustível no segmento: 560.0 km
+
+256. 📍 MONITORAMENTO: Especialista aponta locais de risco de alagamentos em Dourados e município diz manter monitoramento - Dourados News
+    Localização: -22.2272°, -54.8113°
+    Distância da etapa anterior: -360.8 km
+    Distância acumulada: 28956.4 km
+    Combustível no segmento: 199.2 km
+
+257. ⛽ REABASTECIMENTO: Campo Grande
+    Localização: -20.4428°, -54.6464°
+    Distância da etapa anterior: 199.2 km
+    Distância acumulada: 29155.6 km
+    Combustível no segmento: 398.3 km
+
+258. 📍 MONITORAMENTO: SEINTRA pede conscientização da população para manter bueiros limpos - Prefeitura Três Lagoas
+    Localização: -20.7887°, -51.7100°
+    Distância da etapa anterior: -90.3 km
+    Distância acumulada: 29463.6 km
+    Combustível no segmento: 308.0 km
+
+259. ⛽ REABASTECIMENTO: Campo Grande
+    Localização: -20.4428°, -54.6464°
+    Distância da etapa anterior: 308.0 km
+    Distância acumulada: 29771.6 km
+    Combustível no segmento: 616.0 km
+
+260. 📍 MONITORAMENTO: Temporal causa alagamentos em Presidente Prudente - G1
+    Localização: -22.1227°, -51.3868°
+    Distância da etapa anterior: -230.1 km
+    Distância acumulada: 30157.5 km
+    Combustível no segmento: 385.9 km
+
+261. 📍 MONITORAMENTO: Temporal causa alagamentos e queda de árvores na região de Rio Preto e Araçatuba - G1
+    Localização: -21.2055°, -50.4392°
+    Distância da etapa anterior: 141.4 km
+    Distância acumulada: 30298.9 km
+    Combustível no segmento: 527.3 km
+
+262. 📍 MONITORAMENTO: Chuva alaga pronto-socorro e enxurrada deixa carros atolados em Birigui - G1
+    Localização: -21.2924°, -50.3393°
+    Distância da etapa anterior: 14.2 km
+    Distância acumulada: 30313.1 km
+    Combustível no segmento: 541.5 km
+
+263. 📍 MONITORAMENTO: Tempestade provoca estragos, deixa motoristas ilhados e avenidas alagadas em Rio Preto - G1
+    Localização: -20.8126°, -49.3813°
+    Distância da etapa anterior: 112.8 km
+    Distância acumulada: 30425.9 km
+    Combustível no segmento: 654.3 km
+
+264. 📍 MONITORAMENTO: Notícias - Jornal de Barretos
+    Localização: -20.5585°, -48.5674°
+    Distância da etapa anterior: 89.3 km
+    Distância acumulada: 30515.2 km
+    Combustível no segmento: 743.6 km
+
+
+================================================================================
+FIM DO RELATÓRIO
+================================================================================
